@@ -9,12 +9,21 @@ import json, csv
 #with open("t_cst.csv", "w", encoding="utf-8") as f:
 #    f.write(out)*/
 
-out = []
+t_cst = json.load(open("t_cst.json", "r" ,encoding="utf-8"))
 
-with open("t_cst.csv","r",encoding="utf-8") as f:
-    reader = csv.DictReader(f)
+print(len(t_cst))
 
-    for row in reader:
-        out.append(row)
+seen = set()
+cleaned_list = []
 
-json.dump(out,open("t_cst.json","w",encoding="utf-8"), indent=4)
+for d in t_cst:
+    # Buat identifier unik menggunakan tuple (character_id, voice_id)
+    identifier = (d["character_id"], d["voice_id"])
+    
+    # Jika belum pernah dilihat, masukkan ke list hasil dan tandai di set
+    if identifier not in seen:
+        seen.add(identifier)
+        cleaned_list.append(d)
+
+json.dump(cleaned_list, open("t_cst_final.json","w",encoding="utf-8"), indent=4)
+print(len(cleaned_list))
