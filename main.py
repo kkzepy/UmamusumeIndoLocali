@@ -2,7 +2,7 @@ from db import *
 import deep_translator
 from deep_translator import GoogleTranslator
 from util import *
-import json, csv
+import json, time
 
 character_system_text: list
 text_data: list
@@ -22,7 +22,7 @@ text_data_exclusions = [
     4, 5, # characters codename (eg: Hot Rod)
     6, 170, 75, 182, 77, 78, 95, # characters name (eg: Maruzensky)
     76, #character titles
-    88, 163, #character introduction (could be confusing if translated?)
+    163, #88, #character introduction (could be confusing if translated?)
     7, 59, 152, 264, # NPC/Mob names
     173, 174, # NPC names (ura finale)
     28, 29, 31, 32, 33, 34, 35, 36, 38, 111, 206, # race names
@@ -32,7 +32,8 @@ text_data_exclusions = [
     #48, # carats amount
     55, # training ui
     64, 65, #69, #63,  # could be confusing if translated
-    #67, #66, # missions (could be confusing if translated)
+    #67,  # missions (could be confusing if translated)
+    66,
     68, # comic panels/loading panels (could be confusing if translated)
     113, # star pieces names
     121, # fans level (could be confusing if translated)
@@ -44,7 +45,8 @@ text_data_exclusions = [
     160, # track types (eg: dirt, turf)
     161, # distances (eg: long 3000, sprint 1200)
     162, # divisions (eg: junior/senior)
-    203, # skill names
+    #203, # skill names
+    16 # song names
 ]
 
 #cursor.execute(f"SELECT * FROM text_data WHERE id NOT IN {str(text_data_exclusions).replace("[","(").replace("]",")")}")
@@ -96,7 +98,7 @@ def TranslateCST(limit = 0, start_from = 0):
         translated_character_system_text.append(obj)
         LogInfo("Index: " + str(row_index) + " " + str(obj))
         
-def TranslateTD(limit = 0, start_from = 0):
+def TranslateTD(limit = 0, start_from = 0, fix_touched_exclusions = False):
     td = text_data[start_from:]
     #if limit!=0 or limit!= -1:
     #    cst = character_system_text[:limit]
@@ -114,6 +116,22 @@ def TranslateTD(limit = 0, start_from = 0):
 
         if id in text_data_exclusions:# or category in text_data_exclusions:
             #LogInfo(f"{id}, {index}, {text}")
+            exists = any(
+                d["id"] == id# and d["index"] == index 
+                for d in translated_text_data
+            )
+            if exists:
+                LogWarning(f"id {id} was excluded but exists in result!")
+                if fix_touched_exclusions:
+                    matches = [d for d in translated_text_data if id == d.get("id", "")]
+                    """to_fix_index = translated_text_data.index(matches)
+                    matches["text"] = matches["previous"]
+                    translated_text_data[to_fix_index] = matches 
+                    LogInfo(f"Fixed touched exclusions id {id} index {index}: {translated_text_data[to_fix_index]}")
+                    time.sleep(.1)"""
+                    translated_text_data.remove(matches[0])
+                    LogInfo(f"Removed {id}, {index} from result.")
+
             continue
         #continue
 
@@ -133,6 +151,7 @@ def TranslateTD(limit = 0, start_from = 0):
             continue
 
         translated_text=None
+        translated_text = translator.translate(text)
 
         while translated_text == None:
             try:
@@ -209,9 +228,9 @@ tama:list
 try:
     #LogInfo("Rows to process: "+str(len(character_system_text)))
     #TranslateCST(0,0)
-    #LogInfo("Rows to process: "+str(len(text_data)))
-    #TranslateTD(0, 19327)
-    tama = TranslateCertainChar(1021, "id", "su")
+    LogInfo("Rows to process: "+str(len(text_data)))
+    TranslateTD(0, 0, True)
+    #tama = TranslateCertainChar(1021, "id", "su")
     #json.dump(tama,open("tama.json","W",encoding="utf-8"))
     pass
 except KeyboardInterrupt:
@@ -220,6 +239,6 @@ except Exception as e:
     raise e
 finally:
     #json.dump(translated_character_system_text, open("t_cst.json","w"), indent=4)
-    #json.dump(translated_text_data, open("t_td.json","w"), indent=4)
-    json.dump(tama,open("tama.json","w",encoding="utf-8"),indent=4)
+    json.dump(translated_text_data, open("t_td.json","w"), indent=4)
+    #json.dump(tama,open("tama.json","w",encoding="utf-8"),indent=4)
     MasterDB.Close()

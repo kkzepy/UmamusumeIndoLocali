@@ -14,6 +14,7 @@ t_cst = json.load(open("t_cst.json", "r" ,encoding="utf-8"))
 print(len(t_cst))
 
 seen = set()
+dupes = 0
 cleaned_list = []
 
 for d in t_cst:
@@ -24,6 +25,8 @@ for d in t_cst:
     if identifier not in seen:
         seen.add(identifier)
         cleaned_list.append(d)
+        continue
+    dupes+=1
 
 json.dump(cleaned_list, open("t_cst_final.json","w",encoding="utf-8"), indent=4)
-print(len(cleaned_list))
+print(f"Before: {len(t_cst)}, After: {len(cleaned_list)}, Dupes: {dupes}")
