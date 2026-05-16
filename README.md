@@ -1,8 +1,11 @@
 
 # UmamusumeIndoLocali
-Tool ini membantumu mentranslate Umamusume: Pretty Derby (Global) menjadi bahasa Indonesia.
+Tool ini membantumu mentranslate/localify Umamusume: Pretty Derby (Global) menjadi bahasa Indonesia dengan memodifikasi database.
 
 Note: Tidak semua dialog bisa di translate
+
+## How to use
+Upcoming
 
 ## Examples
 <img src="./assets/0.jpeg" width="200"/>
