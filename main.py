@@ -154,11 +154,65 @@ def TranslateTD(limit = 0, start_from = 0):
         translated_text_data.append(obj)
         LogInfo("Index: " + str(row_index) + " " + str(obj))
 
+def TranslateCertainChar(char_id:int, source_lang:str, target_lang:str, start_from:int = 0):
+    translator = GoogleTranslator(source_lang, target_lang)
+    cst = character_system_text[start_from:]
+    result = []
+
+    try:
+        for row in cst:
+            character_id = row["character_id"]
+            voice_id = row["voice_id"]
+            text = row["text"]
+            row_index = character_system_text.index(row)
+
+            if character_id == char_id:
+                if voice_id == 11 or voice_id == 12: continue
+
+                exists = any(
+                    d["character_id"] == id and d["voice_id"] == voice_id 
+                    for d in result
+                )
+                if exists:
+                    LogInfo(f"Dupe! {id}, {voice_id}, {text}")
+                    continue
+
+                matches = [d for d in result if text == d.get("previous", "")]#exist = any(d.get('text') == text for d in result)
+                if len(matches)!=0:
+                    obj = {"index":row_index,"character_id": character_id, "voice_id": voice_id, "text":matches[0]["text"], "previous":text}
+                    result.append(obj)
+                    LogInfo("Found copy!, Index: " + str(row_index) + " " + str(obj))
+                    continue
+
+                translated_text=translator.translate(text)
+                if translated_text==None or "Error 500 (Server Error)" in translated_text:
+                    retries = 0
+                    while translated_text==None or "Error 500 (Server Error)" in translated_text:
+                        LogInfo(f"{text}: Retrying translate...")
+                        translated_text = translator.translate(text)
+                        retries+=1
+                        if retries>=10:
+                            LogWarning(f"Skipping: \"{text}\", defaulting to its own value.")
+                            translated_text = text
+
+                obj = {"index":row_index,"character_id": character_id, "voice_id": voice_id, "text":translated_text, "previous":text}
+                result.append(obj)
+                LogInfo("Index: " + str(row_index) + " " + str(obj))
+    except KeyboardInterrupt:
+        return result
+
+        
+    return result
+
+tama:list
+
 try:
     #LogInfo("Rows to process: "+str(len(character_system_text)))
     #TranslateCST(0,0)
-    LogInfo("Rows to process: "+str(len(text_data)))
-    TranslateTD(0, 19327)
+    #LogInfo("Rows to process: "+str(len(text_data)))
+    #TranslateTD(0, 19327)
+    tama = TranslateCertainChar(1021, "id", "su")
+    #json.dump(tama,open("tama.json","W",encoding="utf-8"))
     pass
 except KeyboardInterrupt:
     pass
@@ -166,5 +220,6 @@ except Exception as e:
     raise e
 finally:
     #json.dump(translated_character_system_text, open("t_cst.json","w"), indent=4)
-    json.dump(translated_text_data, open("t_td.json","w"), indent=4)
+    #json.dump(translated_text_data, open("t_td.json","w"), indent=4)
+    json.dump(tama,open("tama.json","w",encoding="utf-8"),indent=4)
     MasterDB.Close()

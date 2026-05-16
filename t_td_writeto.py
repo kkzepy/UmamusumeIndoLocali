@@ -15,7 +15,12 @@ word_fix = {
     "(Pemburu Kecepatan)": "(Pace Chaser)",
     "(Bedah Terlambat)": "(Late Surger)",
     "(Berakhir Lebih Dekat)": "(End Closer)",
-    "(Pelari Depan)": "(Front Runner)"
+    "(Pelari Depan)": "(Front Runner)",
+
+    "(Sedang)": "(Medium)",
+    "(Lari cepat)": "(Sprint)",
+    "(Mil)": "(Mile)",
+    "(Panjang)": "(Long)"
 }
 
 t_td = json.load(open("t_td.json","r",encoding="utf-8"))
