@@ -24,9 +24,9 @@ if __name__ == "__main__":
                 text = row["text"]
                 previous = row["previous"]
 
-                for wk, wv in config.CHARACTER_SYSTEM_TEXT_WORD_FIX.items():
+                for wk, wv in sorted(config.CHARACTER_SYSTEM_TEXT_WORD_FIX.items(), key=lambda x: len(x[0]), reverse=True):
                     if text!=previous and wk.lower() in text.lower():
-                        text = re.sub(wk, wv, text, flags=re.IGNORECASE)
+                        text = re.sub(re.escape(wk), wv, text, flags=re.IGNORECASE)
 
                         t_cst[ t_cst.index(row) ]["text"] = text
 
@@ -39,9 +39,9 @@ if __name__ == "__main__":
                 text = row["text"]
                 previous = row["previous"]
 
-                for wk, wv in config.TEXT_DATA_WORD_FIX.items():
+                for wk, wv in sorted(config.TEXT_DATA_WORD_FIX.items(), key=lambda x: len(x[0]), reverse=True):
                     if text!=previous and wk.lower() in text.lower():
-                        text = re.sub(wk, wv, text, flags=re.IGNORECASE)
+                        text = re.sub(re.escape(wk), wv, text, flags=re.IGNORECASE)
 
                         t_td[ t_td.index(row) ]["text"] = text
 
