@@ -22,7 +22,10 @@ class MasterDB:
         exist = os.path.exists(path)
         if not exist: LogError(f"The path {path} not found!"); return
 
-        shutil.copy(path, Path.joinpath(Path(path).parent, backup_fname))
+        backup_path = Path.joinpath(Path(path).parent, backup_fname)
+        if os.path.exists(backup_path): LogInfo(f"Backup {backup_path} already existed!"); return;
+
+        shutil.copy(path, backup_path)
         LogInfo(f"Created backup of master.mdb to {backup_fname}")
 
 
