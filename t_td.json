@@ -43320,1462 +43320,6 @@
         "previous": "Chocolate personally made by Mejiro Ardan. Recovers 30 TP."
     },
     {
-        "i_index": 5415,
-        "id": 23,
-        "category": 23,
-        "index": 1,
-        "text": "Sepatu Balap Sprint",
-        "previous": "Sprint Racing Shoes"
-    },
-    {
-        "i_index": 5416,
-        "id": 23,
-        "category": 23,
-        "index": 4,
-        "text": "Sepatu Balap Mile",
-        "previous": "Mile Racing Shoes"
-    },
-    {
-        "i_index": 5417,
-        "id": 23,
-        "category": 23,
-        "index": 7,
-        "text": "Sepatu Balap Sedang",
-        "previous": "Medium Racing Shoes"
-    },
-    {
-        "i_index": 5418,
-        "id": 23,
-        "category": 23,
-        "index": 10,
-        "text": "Sepatu Balap Panjang",
-        "previous": "Long Racing Shoes"
-    },
-    {
-        "i_index": 5419,
-        "id": 23,
-        "category": 23,
-        "index": 13,
-        "text": "Sepatu Balap Tanah",
-        "previous": "Dirt Racing Shoes"
-    },
-    {
-        "i_index": 5420,
-        "id": 23,
-        "category": 23,
-        "index": 25,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5421,
-        "id": 23,
-        "category": 23,
-        "index": 26,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5422,
-        "id": 23,
-        "category": 23,
-        "index": 27,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5423,
-        "id": 23,
-        "category": 23,
-        "index": 28,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5424,
-        "id": 23,
-        "category": 23,
-        "index": 32,
-        "text": "Ketangguhan 30",
-        "previous": "Toughness 30"
-    },
-    {
-        "i_index": 5425,
-        "id": 23,
-        "category": 23,
-        "index": 34,
-        "text": "Jeli Wortel Mini",
-        "previous": "Carrot Jelly Mini"
-    },
-    {
-        "i_index": 5426,
-        "id": 23,
-        "category": 23,
-        "index": 35,
-        "text": "jeli wortel",
-        "previous": "Carrot Jelly"
-    },
-    {
-        "i_index": 5427,
-        "id": 23,
-        "category": 23,
-        "index": 41,
-        "text": "Tiket Pramuka Trainee",
-        "previous": "Trainee Scout Ticket"
-    },
-    {
-        "i_index": 5428,
-        "id": 23,
-        "category": 23,
-        "index": 43,
-        "text": "Karat",
-        "previous": "Carats"
-    },
-    {
-        "i_index": 5429,
-        "id": 23,
-        "category": 23,
-        "index": 44,
-        "text": "Secercah Mimpi",
-        "previous": "Dream Glimmer"
-    },
-    {
-        "i_index": 5430,
-        "id": 23,
-        "category": 23,
-        "index": 45,
-        "text": "Koin Hadiah",
-        "previous": "Prize Coin"
-    },
-    {
-        "i_index": 5431,
-        "id": 23,
-        "category": 23,
-        "index": 48,
-        "text": "Cleat Perak",
-        "previous": "Silver Cleat"
-    },
-    {
-        "i_index": 5432,
-        "id": 23,
-        "category": 23,
-        "index": 49,
-        "text": "Cleat Emas",
-        "previous": "Gold Cleat"
-    },
-    {
-        "i_index": 5433,
-        "id": 23,
-        "category": 23,
-        "index": 50,
-        "text": "Cleat Pelangi",
-        "previous": "Rainbow Cleat"
-    },
-    {
-        "i_index": 5434,
-        "id": 23,
-        "category": 23,
-        "index": 57,
-        "text": "Semanggi",
-        "previous": "Clover"
-    },
-    {
-        "i_index": 5435,
-        "id": 23,
-        "category": 23,
-        "index": 58,
-        "text": "Poin Acara",
-        "previous": "Event Points"
-    },
-    {
-        "i_index": 5436,
-        "id": 23,
-        "category": 23,
-        "index": 59,
-        "text": "Uang",
-        "previous": "Monies"
-    },
-    {
-        "i_index": 5437,
-        "id": 23,
-        "category": 23,
-        "index": 60,
-        "text": "Pena Merah Tazuna",
-        "previous": "Tazuna's Red Pen"
-    },
-    {
-        "i_index": 5438,
-        "id": 23,
-        "category": 23,
-        "index": 69,
-        "text": "Februari S. Selempang Pemenang",
-        "previous": "February S. Winner's Sash"
-    },
-    {
-        "i_index": 5439,
-        "id": 23,
-        "category": 23,
-        "index": 70,
-        "text": "Selempang Pemenang Takamatsunomiya Kinen",
-        "previous": "Takamatsunomiya Kinen Winner's Sash"
-    },
-    {
-        "i_index": 5440,
-        "id": 23,
-        "category": 23,
-        "index": 71,
-        "text": "Selempang Pemenang Osaka Hai",
-        "previous": "Osaka Hai Winner's Sash"
-    },
-    {
-        "i_index": 5441,
-        "id": 23,
-        "category": 23,
-        "index": 72,
-        "text": "Selempang Pemenang Oka Sho",
-        "previous": "Oka Sho Winner's Sash"
-    },
-    {
-        "i_index": 5442,
-        "id": 23,
-        "category": 23,
-        "index": 73,
-        "text": "Selempang Pemenang Satsuki Sho",
-        "previous": "Satsuki Sho Winner's Sash"
-    },
-    {
-        "i_index": 5443,
-        "id": 23,
-        "category": 23,
-        "index": 74,
-        "text": "Selempang Pemenang Tenno Sho (Musim Semi).",
-        "previous": "Tenno Sho (Spring) Winner's Sash"
-    },
-    {
-        "i_index": 5444,
-        "id": 23,
-        "category": 23,
-        "index": 75,
-        "text": "NHK Mile C. Selempang Pemenang",
-        "previous": "NHK Mile C. Winner's Sash"
-    },
-    {
-        "i_index": 5445,
-        "id": 23,
-        "category": 23,
-        "index": 76,
-        "text": "Selempang Pemenang Victoria Mile",
-        "previous": "Victoria Mile Winner's Sash"
-    },
-    {
-        "i_index": 5446,
-        "id": 23,
-        "category": 23,
-        "index": 77,
-        "text": "Selempang Pemenang Oaks Jepang",
-        "previous": "Japanese Oaks Winner's Sash"
-    },
-    {
-        "i_index": 5447,
-        "id": 23,
-        "category": 23,
-        "index": 78,
-        "text": "Selempang Pemenang Derby Jepang",
-        "previous": "Japanese Derby Winner's Sash"
-    },
-    {
-        "i_index": 5448,
-        "id": 23,
-        "category": 23,
-        "index": 79,
-        "text": "Selempang Pemenang Yasuda Kinen",
-        "previous": "Yasuda Kinen Winner's Sash"
-    },
-    {
-        "i_index": 5449,
-        "id": 23,
-        "category": 23,
-        "index": 80,
-        "text": "Selempang Pemenang Takarazuka Kinen",
-        "previous": "Takarazuka Kinen Winner's Sash"
-    },
-    {
-        "i_index": 5450,
-        "id": 23,
-        "category": 23,
-        "index": 81,
-        "text": "Sprinters S. Selempang Pemenang",
-        "previous": "Sprinters S. Winner's Sash"
-    },
-    {
-        "i_index": 5451,
-        "id": 23,
-        "category": 23,
-        "index": 82,
-        "text": "Selempang Pemenang Shuka Sho",
-        "previous": "Shuka Sho Winner's Sash"
-    },
-    {
-        "i_index": 5452,
-        "id": 23,
-        "category": 23,
-        "index": 83,
-        "text": "Selempang Pemenang Kikuka Sho",
-        "previous": "Kikuka Sho Winner's Sash"
-    },
-    {
-        "i_index": 5453,
-        "id": 23,
-        "category": 23,
-        "index": 84,
-        "text": "Selempang Pemenang Tenno Sho (Musim Gugur).",
-        "previous": "Tenno Sho (Autumn) Winner's Sash"
-    },
-    {
-        "i_index": 5454,
-        "id": 23,
-        "category": 23,
-        "index": 85,
-        "text": "mil ch. ikat pinggang pemenang",
-        "previous": "Mile Ch. Winner's Sash"
-    },
-    {
-        "i_index": 5455,
-        "id": 23,
-        "category": 23,
-        "index": 86,
-        "text": "Selempang Pemenang Piala Ratu Elizabeth II",
-        "previous": "Queen Elizabeth II Cup Winner's Sash"
-    },
-    {
-        "i_index": 5456,
-        "id": 23,
-        "category": 23,
-        "index": 87,
-        "text": "Ikat Pinggang Pemenang Piala Jepang",
-        "previous": "Japan Cup Winner's Sash"
-    },
-    {
-        "i_index": 5457,
-        "id": 23,
-        "category": 23,
-        "index": 88,
-        "text": "Ikat Pinggang Pemenang Piala Champions",
-        "previous": "Champions Cup Winner's Sash"
-    },
-    {
-        "i_index": 5458,
-        "id": 23,
-        "category": 23,
-        "index": 89,
-        "text": "Selempang Pemenang Hanshin J.F",
-        "previous": "Hanshin J.F. Winner's Sash"
-    },
-    {
-        "i_index": 5459,
-        "id": 23,
-        "category": 23,
-        "index": 90,
-        "text": "Asahi Hai F.S. ikat pinggang pemenang",
-        "previous": "Asahi Hai F.S. Winner's Sash"
-    },
-    {
-        "i_index": 5460,
-        "id": 23,
-        "category": 23,
-        "index": 91,
-        "text": "Selempang Pemenang Arima Kinen",
-        "previous": "Arima Kinen Winner's Sash"
-    },
-    {
-        "i_index": 5461,
-        "id": 23,
-        "category": 23,
-        "index": 92,
-        "text": "Selempang Pemenang S. Harapan",
-        "previous": "Hopeful S. Winner's Sash"
-    },
-    {
-        "i_index": 5462,
-        "id": 23,
-        "category": 23,
-        "index": 95,
-        "text": "Jam Alarm",
-        "previous": "Alarm Clock"
-    },
-    {
-        "i_index": 5463,
-        "id": 23,
-        "category": 23,
-        "index": 96,
-        "text": "Tiket Balapan Harian",
-        "previous": "Daily Race Ticket"
-    },
-    {
-        "i_index": 5464,
-        "id": 23,
-        "category": 23,
-        "index": 97,
-        "text": "Tiket Balap Legenda",
-        "previous": "Legend Race Ticket"
-    },
-    {
-        "i_index": 5465,
-        "id": 23,
-        "category": 23,
-        "index": 98,
-        "text": "Poin Teman",
-        "previous": "Friend Points"
-    },
-    {
-        "i_index": 5466,
-        "id": 23,
-        "category": 23,
-        "index": 101,
-        "text": "Ikat Pinggang Pemenang Derby Kotoran Jepang",
-        "previous": "Japan Dirt Derby Winner's Sash"
-    },
-    {
-        "i_index": 5467,
-        "id": 23,
-        "category": 23,
-        "index": 102,
-        "text": "Selempang Pemenang JBC Sprint",
-        "previous": "JBC Sprint Winner's Sash"
-    },
-    {
-        "i_index": 5468,
-        "id": 23,
-        "category": 23,
-        "index": 103,
-        "text": "Selempang Pemenang JBC Classic",
-        "previous": "JBC Classic Winner's Sash"
-    },
-    {
-        "i_index": 5469,
-        "id": 23,
-        "category": 23,
-        "index": 104,
-        "text": "Selempang Pemenang Klasik Wanita JBC",
-        "previous": "JBC Ladies\u2019 Classic Winner's Sash"
-    },
-    {
-        "i_index": 5470,
-        "id": 23,
-        "category": 23,
-        "index": 105,
-        "text": "Selempang Pemenang Teio Sho",
-        "previous": "Teio Sho Winner's Sash"
-    },
-    {
-        "i_index": 5471,
-        "id": 23,
-        "category": 23,
-        "index": 106,
-        "text": "Selempang Pemenang Tokyo Daishoten",
-        "previous": "Tokyo Daishoten Winner's Sash"
-    },
-    {
-        "i_index": 5472,
-        "id": 23,
-        "category": 23,
-        "index": 107,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5473,
-        "id": 23,
-        "category": 23,
-        "index": 108,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5474,
-        "id": 23,
-        "category": 23,
-        "index": 109,
-        "text": "Tidak digunakan",
-        "previous": "Unused"
-    },
-    {
-        "i_index": 5475,
-        "id": 23,
-        "category": 23,
-        "index": 110,
-        "text": "Poin Dukungan",
-        "previous": "Support Points"
-    },
-    {
-        "i_index": 5476,
-        "id": 23,
-        "category": 23,
-        "index": 111,
-        "text": "Tiket Pramuka Kartu Dukungan",
-        "previous": "Support Card Scout Ticket"
-    },
-    {
-        "i_index": 5477,
-        "id": 23,
-        "category": 23,
-        "index": 113,
-        "text": "3\u2605 Lakukan Balapan Pramuka Debut 1",
-        "previous": "3\u2605 Make Debut Scout Race 1"
-    },
-    {
-        "i_index": 5478,
-        "id": 23,
-        "category": 23,
-        "index": 114,
-        "text": "SSR Membuat Debut Pramuka Balapan 1",
-        "previous": "SSR Make Debut Scout Race 1"
-    },
-    {
-        "i_index": 5479,
-        "id": 23,
-        "category": 23,
-        "index": 115,
-        "text": "Patung Dewi",
-        "previous": "Goddess Statue"
-    },
-    {
-        "i_index": 5480,
-        "id": 23,
-        "category": 23,
-        "index": 116,
-        "text": "Parfait yang menyenangkan",
-        "previous": "Pleasing Parfait"
-    },
-    {
-        "i_index": 5481,
-        "id": 23,
-        "category": 23,
-        "index": 117,
-        "text": "Boneka Sinar Matahari",
-        "previous": "Sunshine Doll"
-    },
-    {
-        "i_index": 5482,
-        "id": 23,
-        "category": 23,
-        "index": 118,
-        "text": "Boneka Curah Hujan",
-        "previous": "Rainfall Doll"
-    },
-    {
-        "i_index": 5483,
-        "id": 23,
-        "category": 23,
-        "index": 119,
-        "text": "Bola Undian Pos Dalam",
-        "previous": "Inner Post Raffle Ball"
-    },
-    {
-        "i_index": 5484,
-        "id": 23,
-        "category": 23,
-        "index": 120,
-        "text": "Bola Undian Pos Luar",
-        "previous": "Outer Post Raffle Ball"
-    },
-    {
-        "i_index": 5485,
-        "id": 23,
-        "category": 23,
-        "index": 130,
-        "text": "Voucher Awal 3\u2605",
-        "previous": "Head Start 3\u2605 Voucher"
-    },
-    {
-        "i_index": 5486,
-        "id": 23,
-        "category": 23,
-        "index": 131,
-        "text": "Voucher SSR Head Start",
-        "previous": "Head Start SSR Voucher"
-    },
-    {
-        "i_index": 5487,
-        "id": 23,
-        "category": 23,
-        "index": 132,
-        "text": "Ikuti Peningkatan Slot",
-        "previous": "Follow Slot Boost"
-    },
-    {
-        "i_index": 5488,
-        "id": 23,
-        "category": 23,
-        "index": 134,
-        "text": "Poin Klub",
-        "previous": "Club Points"
-    },
-    {
-        "i_index": 5489,
-        "id": 23,
-        "category": 23,
-        "index": 135,
-        "text": "2\u2605+ Lakukan Balapan Pramuka Debut 1",
-        "previous": "2\u2605+ Make Debut Scout Race 1"
-    },
-    {
-        "i_index": 5490,
-        "id": 23,
-        "category": 23,
-        "index": 136,
-        "text": "SR+ Membuat Debut Pramuka 1",
-        "previous": "SR+ Make Debut Scout Race 1"
-    },
-    {
-        "i_index": 5491,
-        "id": 23,
-        "category": 23,
-        "index": 137,
-        "text": "Tiket Masuk Piala Taurus",
-        "previous": "Taurus Cup Entry Ticket"
-    },
-    {
-        "i_index": 5492,
-        "id": 23,
-        "category": 23,
-        "index": 138,
-        "text": "Tiket Masuk Piala Gemini",
-        "previous": "Gemini Cup Entry Ticket"
-    },
-    {
-        "i_index": 5493,
-        "id": 23,
-        "category": 23,
-        "index": 139,
-        "text": "Tiket Masuk Piala Kanker",
-        "previous": "Cancer Cup Entry Ticket"
-    },
-    {
-        "i_index": 5494,
-        "id": 23,
-        "category": 23,
-        "index": 140,
-        "text": "Umabako 2 3\u2605 Voucher",
-        "previous": "Umabako 2 3\u2605 Voucher"
-    },
-    {
-        "i_index": 5495,
-        "id": 23,
-        "category": 23,
-        "index": 141,
-        "text": "Voucher SSR Setengah Hari Jadi",
-        "previous": "Half Anniversary SSR Voucher"
-    },
-    {
-        "i_index": 5496,
-        "id": 23,
-        "category": 23,
-        "index": 142,
-        "text": "Tiket Masuk Piala Leo",
-        "previous": "Leo Cup Entry Ticket"
-    },
-    {
-        "i_index": 5497,
-        "id": 23,
-        "category": 23,
-        "index": 143,
-        "text": "Tiket Masuk Piala Virgo",
-        "previous": "Virgo Cup Entry Ticket"
-    },
-    {
-        "i_index": 5498,
-        "id": 23,
-        "category": 23,
-        "index": 144,
-        "text": "Kristal Buka Tutup Pelangi",
-        "previous": "Rainbow Uncap Crystal"
-    },
-    {
-        "i_index": 5499,
-        "id": 23,
-        "category": 23,
-        "index": 145,
-        "text": "Kristal Buka Tutup Emas",
-        "previous": "Gold Uncap Crystal"
-    },
-    {
-        "i_index": 5500,
-        "id": 23,
-        "category": 23,
-        "index": 147,
-        "text": "Tiket Masuk Piala Libra",
-        "previous": "Libra Cup Entry Ticket"
-    },
-    {
-        "i_index": 5501,
-        "id": 23,
-        "category": 23,
-        "index": 148,
-        "text": "Tiket Masuk Piala Scorpio",
-        "previous": "Scorpio Cup Entry Ticket"
-    },
-    {
-        "i_index": 5502,
-        "id": 23,
-        "category": 23,
-        "index": 149,
-        "text": "Pecahan Kristal Pelangi",
-        "previous": "Rainbow Crystal Shard"
-    },
-    {
-        "i_index": 5503,
-        "id": 23,
-        "category": 23,
-        "index": 150,
-        "text": "Pecahan Kristal Emas",
-        "previous": "Gold Crystal Shard"
-    },
-    {
-        "i_index": 5504,
-        "id": 23,
-        "category": 23,
-        "index": 151,
-        "text": "Tiket Masuk Piala Sagitarius",
-        "previous": "Sagittarius Cup Entry Ticket"
-    },
-    {
-        "i_index": 5505,
-        "id": 23,
-        "category": 23,
-        "index": 152,
-        "text": "3\u2605 Lakukan Balapan Pramuka Debut 2",
-        "previous": "3\u2605 Make Debut Scout Race 2"
-    },
-    {
-        "i_index": 5506,
-        "id": 23,
-        "category": 23,
-        "index": 153,
-        "text": "SSR Membuat Debut Pramuka Balapan 2",
-        "previous": "SSR Make Debut Scout Race 2"
-    },
-    {
-        "i_index": 5507,
-        "id": 23,
-        "category": 23,
-        "index": 154,
-        "text": "2\u2605+ Lakukan Balapan Pramuka Debut 2",
-        "previous": "2\u2605+ Make Debut Scout Race 2"
-    },
-    {
-        "i_index": 5508,
-        "id": 23,
-        "category": 23,
-        "index": 155,
-        "text": "SR+ Membuat Debut Pramuka Balapan 2",
-        "previous": "SR+ Make Debut Scout Race 2"
-    },
-    {
-        "i_index": 5509,
-        "id": 23,
-        "category": 23,
-        "index": 156,
-        "text": "Uji Koin",
-        "previous": "Test Coins"
-    },
-    {
-        "i_index": 5510,
-        "id": 23,
-        "category": 23,
-        "index": 157,
-        "text": "Tiket Masuk Piala Capricorn",
-        "previous": "Capricorn Cup Entry Ticket"
-    },
-    {
-        "i_index": 5511,
-        "id": 23,
-        "category": 23,
-        "index": 159,
-        "text": "Poin Karnaval",
-        "previous": "Carnival Pts"
-    },
-    {
-        "i_index": 5512,
-        "id": 23,
-        "category": 23,
-        "index": 160,
-        "text": "Buku Petunjuk",
-        "previous": "Book of Hints"
-    },
-    {
-        "i_index": 5513,
-        "id": 23,
-        "category": 23,
-        "index": 161,
-        "text": "Buku Teks Petunjuk",
-        "previous": "Textbook of Hints"
-    },
-    {
-        "i_index": 5514,
-        "id": 23,
-        "category": 23,
-        "index": 162,
-        "text": "Buku Petunjuk Langka",
-        "previous": "Rare Book of Hints"
-    },
-    {
-        "i_index": 5515,
-        "id": 23,
-        "category": 23,
-        "index": 163,
-        "text": "Buku Petunjuk Langka",
-        "previous": "Rare Textbook of Hints"
-    },
-    {
-        "i_index": 5516,
-        "id": 23,
-        "category": 23,
-        "index": 164,
-        "text": "Voucher HUT ke-1 3\u2605",
-        "previous": "1st Anniversary 3\u2605 Voucher"
-    },
-    {
-        "i_index": 5517,
-        "id": 23,
-        "category": 23,
-        "index": 165,
-        "text": "Voucher SSR HUT ke-1",
-        "previous": "1st Anniversary SSR Voucher"
-    },
-    {
-        "i_index": 5518,
-        "id": 23,
-        "category": 23,
-        "index": 166,
-        "text": "Tiket Masuk Piala Aquarius",
-        "previous": "Aquarius Cup Entry Ticket"
-    },
-    {
-        "i_index": 5519,
-        "id": 23,
-        "category": 23,
-        "index": 167,
-        "text": "Tiket Masuk Piala Pisces",
-        "previous": "Pisces Cup Entry Ticket"
-    },
-    {
-        "i_index": 5520,
-        "id": 23,
-        "category": 23,
-        "index": 168,
-        "text": "Tiket Balapan Legenda Harian",
-        "previous": "Daily Legend Race Ticket"
-    },
-    {
-        "i_index": 5521,
-        "id": 23,
-        "category": 23,
-        "index": 169,
-        "text": "Tiket Masuk Piala Aries",
-        "previous": "Aries Cup Entry Ticket"
-    },
-    {
-        "i_index": 5522,
-        "id": 23,
-        "category": 23,
-        "index": 170,
-        "text": "Menambahkan musik ke Jukebox.",
-        "previous": "Adds music to the Jukebox."
-    },
-    {
-        "i_index": 5523,
-        "id": 23,
-        "category": 23,
-        "index": 171,
-        "text": "Tiket Masuk Piala Taurus",
-        "previous": "Taurus Cup Entry Ticket"
-    },
-    {
-        "i_index": 5524,
-        "id": 23,
-        "category": 23,
-        "index": 172,
-        "text": "Tiket Masuk Piala Gemini",
-        "previous": "Gemini Cup Entry Ticket"
-    },
-    {
-        "i_index": 5525,
-        "id": 23,
-        "category": 23,
-        "index": 173,
-        "text": "Tiket Masuk Piala Kanker",
-        "previous": "Cancer Cup Entry Ticket"
-    },
-    {
-        "i_index": 5526,
-        "id": 23,
-        "category": 23,
-        "index": 174,
-        "text": "Buah Belimbing",
-        "previous": "Star Fruit"
-    },
-    {
-        "i_index": 5527,
-        "id": 23,
-        "category": 23,
-        "index": 1001,
-        "text": "Poin Pramuka",
-        "previous": "Scout Points"
-    },
-    {
-        "i_index": 5528,
-        "id": 23,
-        "category": 23,
-        "index": 2001,
-        "text": "Tiket Lomba Pramuka",
-        "previous": "Scout Race Ticket"
-    },
-    {
-        "i_index": 5529,
-        "id": 23,
-        "category": 23,
-        "index": 10001,
-        "text": "Cokelat Buatan Tangan Minggu Spesial",
-        "previous": "Special Week's Handmade Chocolate"
-    },
-    {
-        "i_index": 5530,
-        "id": 23,
-        "category": 23,
-        "index": 10002,
-        "text": "Cokelat Buatan Tangan Minggu Spesial",
-        "previous": "Special Week's Handmade Chocolate"
-    },
-    {
-        "i_index": 5531,
-        "id": 23,
-        "category": 23,
-        "index": 10003,
-        "text": "Cokelat Buatan Tangan Silence Suzuka",
-        "previous": "Silence Suzuka's Handmade Chocolate"
-    },
-    {
-        "i_index": 5532,
-        "id": 23,
-        "category": 23,
-        "index": 10004,
-        "text": "Cokelat Buatan Tangan Tokai Teio",
-        "previous": "Tokai Teio's Handmade Chocolate"
-    },
-    {
-        "i_index": 5533,
-        "id": 23,
-        "category": 23,
-        "index": 10005,
-        "text": "Cokelat Buatan Tangan Tokai Teio",
-        "previous": "Tokai Teio's Handmade Chocolate"
-    },
-    {
-        "i_index": 5534,
-        "id": 23,
-        "category": 23,
-        "index": 10006,
-        "text": "Cokelat Buatan Tangan Maruzensky",
-        "previous": "Maruzensky's Handmade Chocolate"
-    },
-    {
-        "i_index": 5535,
-        "id": 23,
-        "category": 23,
-        "index": 10007,
-        "text": "Cokelat Buatan Tangan Maruzensky",
-        "previous": "Maruzensky's Handmade Chocolate"
-    },
-    {
-        "i_index": 5536,
-        "id": 23,
-        "category": 23,
-        "index": 10008,
-        "text": "Cokelat Buatan Tangan Fuji Kiseki",
-        "previous": "Fuji Kiseki's Handmade Chocolate"
-    },
-    {
-        "i_index": 5537,
-        "id": 23,
-        "category": 23,
-        "index": 10009,
-        "text": "Cokelat Buatan Tangan Oguri Cap",
-        "previous": "Oguri Cap's Handmade Chocolate"
-    },
-    {
-        "i_index": 5538,
-        "id": 23,
-        "category": 23,
-        "index": 10010,
-        "text": "Cokelat Buatan Tangan Oguri Cap",
-        "previous": "Oguri Cap's Handmade Chocolate"
-    },
-    {
-        "i_index": 5539,
-        "id": 23,
-        "category": 23,
-        "index": 10011,
-        "text": "Cokelat Buatan Tangan Kapal Emas",
-        "previous": "Gold Ship's Handmade Chocolate"
-    },
-    {
-        "i_index": 5540,
-        "id": 23,
-        "category": 23,
-        "index": 10012,
-        "text": "Cokelat Buatan Tangan Vodka",
-        "previous": "Vodka's Handmade Chocolate"
-    },
-    {
-        "i_index": 5541,
-        "id": 23,
-        "category": 23,
-        "index": 10013,
-        "text": "Cokelat Buatan Tangan Daiwa Scarlet",
-        "previous": "Daiwa Scarlet's Handmade Chocolate"
-    },
-    {
-        "i_index": 5542,
-        "id": 23,
-        "category": 23,
-        "index": 10014,
-        "text": "Cokelat Buatan Tangan Taiki Shuttle",
-        "previous": "Taiki Shuttle's Handmade Chocolate"
-    },
-    {
-        "i_index": 5543,
-        "id": 23,
-        "category": 23,
-        "index": 10015,
-        "text": "Cokelat Buatan Tangan Grass Wonder",
-        "previous": "Grass Wonder's Handmade Chocolate"
-    },
-    {
-        "i_index": 5544,
-        "id": 23,
-        "category": 23,
-        "index": 10016,
-        "text": "Cokelat Buatan Tangan Grass Wonder",
-        "previous": "Grass Wonder's Handmade Chocolate"
-    },
-    {
-        "i_index": 5545,
-        "id": 23,
-        "category": 23,
-        "index": 10017,
-        "text": "Cokelat Buatan Tangan Hishi Amazon",
-        "previous": "Hishi Amazon's Handmade Chocolate"
-    },
-    {
-        "i_index": 5546,
-        "id": 23,
-        "category": 23,
-        "index": 10018,
-        "text": "Cokelat Buatan Tangan Mejiro McQueen",
-        "previous": "Mejiro McQueen's Handmade Chocolate"
-    },
-    {
-        "i_index": 5547,
-        "id": 23,
-        "category": 23,
-        "index": 10019,
-        "text": "Cokelat Buatan Tangan Mejiro McQueen",
-        "previous": "Mejiro McQueen's Handmade Chocolate"
-    },
-    {
-        "i_index": 5548,
-        "id": 23,
-        "category": 23,
-        "index": 10020,
-        "text": "Cokelat Buatan Tangan El Condor Pasa",
-        "previous": "El Condor Pasa's Handmade Chocolate"
-    },
-    {
-        "i_index": 5549,
-        "id": 23,
-        "category": 23,
-        "index": 10021,
-        "text": "Cokelat Buatan Tangan El Condor Pasa",
-        "previous": "El Condor Pasa's Handmade Chocolate"
-    },
-    {
-        "i_index": 5550,
-        "id": 23,
-        "category": 23,
-        "index": 10022,
-        "text": "T.M. Cokelat Buatan Tangan Opera O",
-        "previous": "T.M. Opera O's Handmade Chocolate"
-    },
-    {
-        "i_index": 5551,
-        "id": 23,
-        "category": 23,
-        "index": 10023,
-        "text": "T.M. Cokelat Buatan Tangan Opera O",
-        "previous": "T.M. Opera O's Handmade Chocolate"
-    },
-    {
-        "i_index": 5552,
-        "id": 23,
-        "category": 23,
-        "index": 10024,
-        "text": "Cokelat Buatan Tangan Narita Brian",
-        "previous": "Narita Brian's Handmade Chocolate"
-    },
-    {
-        "i_index": 5553,
-        "id": 23,
-        "category": 23,
-        "index": 10025,
-        "text": "Cokelat Buatan Tangan Symboli Rudolf",
-        "previous": "Symboli Rudolf's Handmade Chocolate"
-    },
-    {
-        "i_index": 5554,
-        "id": 23,
-        "category": 23,
-        "index": 10026,
-        "text": "Cokelat Buatan Tangan Symboli Rudolf",
-        "previous": "Symboli Rudolf's Handmade Chocolate"
-    },
-    {
-        "i_index": 5555,
-        "id": 23,
-        "category": 23,
-        "index": 10027,
-        "text": "Cokelat Buatan Tangan Air Groove",
-        "previous": "Air Groove's Handmade Chocolate"
-    },
-    {
-        "i_index": 5556,
-        "id": 23,
-        "category": 23,
-        "index": 10028,
-        "text": "Cokelat Buatan Tangan Air Groove",
-        "previous": "Air Groove's Handmade Chocolate"
-    },
-    {
-        "i_index": 5557,
-        "id": 23,
-        "category": 23,
-        "index": 10029,
-        "text": "Cokelat Buatan Tangan Agnes Digital",
-        "previous": "Agnes Digital's Handmade Chocolate"
-    },
-    {
-        "i_index": 5558,
-        "id": 23,
-        "category": 23,
-        "index": 10030,
-        "text": "Cokelat Buatan Tangan Seiun Sky",
-        "previous": "Seiun Sky's Handmade Chocolate"
-    },
-    {
-        "i_index": 5559,
-        "id": 23,
-        "category": 23,
-        "index": 10031,
-        "text": "Cokelat Buatan Tangan Tamamo Cross",
-        "previous": "Tamamo Cross's Handmade Chocolate"
-    },
-    {
-        "i_index": 5560,
-        "id": 23,
-        "category": 23,
-        "index": 10032,
-        "text": "Cokelat Buatan Tangan Fine Motion",
-        "previous": "Fine Motion's Handmade Chocolate"
-    },
-    {
-        "i_index": 5561,
-        "id": 23,
-        "category": 23,
-        "index": 10033,
-        "text": "Cokelat Buatan Tangan Biwa Hayahide",
-        "previous": "Biwa Hayahide's Handmade Chocolate"
-    },
-    {
-        "i_index": 5562,
-        "id": 23,
-        "category": 23,
-        "index": 10034,
-        "text": "Cokelat Buatan Tangan Biwa Hayahide",
-        "previous": "Biwa Hayahide's Handmade Chocolate"
-    },
-    {
-        "i_index": 5563,
-        "id": 23,
-        "category": 23,
-        "index": 10035,
-        "text": "Cokelat Buatan Tangan Mayano Top Gun",
-        "previous": "Mayano Top Gun's Handmade Chocolate"
-    },
-    {
-        "i_index": 5564,
-        "id": 23,
-        "category": 23,
-        "index": 10036,
-        "text": "Cokelat Buatan Tangan Mayano Top Gun",
-        "previous": "Mayano Top Gun's Handmade Chocolate"
-    },
-    {
-        "i_index": 5565,
-        "id": 23,
-        "category": 23,
-        "index": 10037,
-        "text": "Cokelat Buatan Tangan Kafe Manhattan",
-        "previous": "Manhattan Cafe's Handmade Chocolate"
-    },
-    {
-        "i_index": 5566,
-        "id": 23,
-        "category": 23,
-        "index": 10038,
-        "text": "Cokelat Buatan Tangan Mihono Bourbon",
-        "previous": "Mihono Bourbon's Handmade Chocolate"
-    },
-    {
-        "i_index": 5567,
-        "id": 23,
-        "category": 23,
-        "index": 10039,
-        "text": "Cokelat Buatan Tangan Mihono Bourbon",
-        "previous": "Mihono Bourbon's Handmade Chocolate"
-    },
-    {
-        "i_index": 5568,
-        "id": 23,
-        "category": 23,
-        "index": 10040,
-        "text": "Cokelat Buatan Tangan Mejiro Ryan",
-        "previous": "Mejiro Ryan's Handmade Chocolate"
-    },
-    {
-        "i_index": 5569,
-        "id": 23,
-        "category": 23,
-        "index": 10041,
-        "text": "Cokelat Buatan Tangan Hishi Akebono",
-        "previous": "Hishi Akebono's Handmade Chocolate"
-    },
-    {
-        "i_index": 5570,
-        "id": 23,
-        "category": 23,
-        "index": 10042,
-        "text": "Cokelat Buatan Tangan Rice Shower",
-        "previous": "Rice Shower's Handmade Chocolate"
-    },
-    {
-        "i_index": 5571,
-        "id": 23,
-        "category": 23,
-        "index": 10043,
-        "text": "Cokelat Buatan Tangan Rice Shower",
-        "previous": "Rice Shower's Handmade Chocolate"
-    },
-    {
-        "i_index": 5572,
-        "id": 23,
-        "category": 23,
-        "index": 10044,
-        "text": "Cokelat Buatan Tangan Agnes Tachyon",
-        "previous": "Agnes Tachyon's Handmade Chocolate"
-    },
-    {
-        "i_index": 5573,
-        "id": 23,
-        "category": 23,
-        "index": 10045,
-        "text": "Kagumi Cokelat Buatan Tangan Vega",
-        "previous": "Admire Vega's Handmade Chocolate"
-    },
-    {
-        "i_index": 5574,
-        "id": 23,
-        "category": 23,
-        "index": 10046,
-        "text": "Cokelat Buatan Tangan Tiket Pemenang",
-        "previous": "Winning Ticket's Handmade Chocolate"
-    },
-    {
-        "i_index": 5575,
-        "id": 23,
-        "category": 23,
-        "index": 10047,
-        "text": "Cokelat Buatan Tangan Eishin Flash",
-        "previous": "Eishin Flash's Handmade Chocolate"
-    },
-    {
-        "i_index": 5576,
-        "id": 23,
-        "category": 23,
-        "index": 10048,
-        "text": "Cokelat Buatan Tangan Eishin Flash",
-        "previous": "Eishin Flash's Handmade Chocolate"
-    },
-    {
-        "i_index": 5577,
-        "id": 23,
-        "category": 23,
-        "index": 10049,
-        "text": "Cokelat Buatan Tangan Curren Chan",
-        "previous": "Curren Chan's Handmade Chocolate"
-    },
-    {
-        "i_index": 5578,
-        "id": 23,
-        "category": 23,
-        "index": 10050,
-        "text": "Cokelat Buatan Tangan Putri Kawakami",
-        "previous": "Kawakami Princess's Handmade Chocolate"
-    },
-    {
-        "i_index": 5579,
-        "id": 23,
-        "category": 23,
-        "index": 10051,
-        "text": "Cokelat Buatan Tangan Kota Emas",
-        "previous": "Gold City's Handmade Chocolate"
-    },
-    {
-        "i_index": 5580,
-        "id": 23,
-        "category": 23,
-        "index": 10052,
-        "text": "Cokelat Buatan Tangan Kota Emas",
-        "previous": "Gold City's Handmade Chocolate"
-    },
-    {
-        "i_index": 5581,
-        "id": 23,
-        "category": 23,
-        "index": 10053,
-        "text": "Cokelat Buatan Tangan Sakura Bakushin O",
-        "previous": "Sakura Bakushin O's Handmade Chocolate"
-    },
-    {
-        "i_index": 5582,
-        "id": 23,
-        "category": 23,
-        "index": 10054,
-        "text": "Cokelat Buatan Tangan Super Creek",
-        "previous": "Super Creek's Handmade Chocolate"
-    },
-    {
-        "i_index": 5583,
-        "id": 23,
-        "category": 23,
-        "index": 10055,
-        "text": "Cokelat Buatan Tangan Super Creek",
-        "previous": "Super Creek's Handmade Chocolate"
-    },
-    {
-        "i_index": 5584,
-        "id": 23,
-        "category": 23,
-        "index": 10056,
-        "text": "Cokelat Buatan Tangan Smart Falcon",
-        "previous": "Smart Falcon's Handmade Chocolate"
-    },
-    {
-        "i_index": 5585,
-        "id": 23,
-        "category": 23,
-        "index": 10057,
-        "text": "Cokelat Buatan Tangan Tosen Jordan",
-        "previous": "Tosen Jordan's Handmade Chocolate"
-    },
-    {
-        "i_index": 5586,
-        "id": 23,
-        "category": 23,
-        "index": 10058,
-        "text": "Cokelat Buatan Tangan Narita Taishin",
-        "previous": "Narita Taishin's Handmade Chocolate"
-    },
-    {
-        "i_index": 5587,
-        "id": 23,
-        "category": 23,
-        "index": 10059,
-        "text": "Cokelat Buatan Tangan Haru Urara",
-        "previous": "Haru Urara's Handmade Chocolate"
-    },
-    {
-        "i_index": 5588,
-        "id": 23,
-        "category": 23,
-        "index": 10060,
-        "text": "Cokelat Buatan Tangan Haru Urara",
-        "previous": "Haru Urara's Handmade Chocolate"
-    },
-    {
-        "i_index": 5589,
-        "id": 23,
-        "category": 23,
-        "index": 10061,
-        "text": "Cokelat Buatan Tangan Matikanefukukitaru",
-        "previous": "Matikanefukukitaru's Handmade Chocolate"
-    },
-    {
-        "i_index": 5590,
-        "id": 23,
-        "category": 23,
-        "index": 10062,
-        "text": "Cokelat Buatan Tangan Matikanefukukitaru",
-        "previous": "Matikanefukukitaru's Handmade Chocolate"
-    },
-    {
-        "i_index": 5591,
-        "id": 23,
-        "category": 23,
-        "index": 10063,
-        "text": "Cokelat Buatan Tangan Meisho Doto",
-        "previous": "Meisho Doto's Handmade Chocolate"
-    },
-    {
-        "i_index": 5592,
-        "id": 23,
-        "category": 23,
-        "index": 10064,
-        "text": "Cokelat Buatan Tangan Mejiro Dober",
-        "previous": "Mejiro Dober's Handmade Chocolate"
-    },
-    {
-        "i_index": 5593,
-        "id": 23,
-        "category": 23,
-        "index": 10065,
-        "text": "Cokelat Buatan Tangan Alam yang Bagus",
-        "previous": "Nice Nature's Handmade Chocolate"
-    },
-    {
-        "i_index": 5594,
-        "id": 23,
-        "category": 23,
-        "index": 10066,
-        "text": "Cokelat Buatan Tangan King Halo",
-        "previous": "King Halo's Handmade Chocolate"
-    },
-    {
-        "i_index": 5595,
-        "id": 23,
-        "category": 23,
-        "index": 10067,
-        "text": "Cokelat Buatan Tangan Sakura Chiyono O",
-        "previous": "Sakura Chiyono O's Handmade Chocolate"
-    },
-    {
-        "i_index": 5596,
-        "id": 23,
-        "category": 23,
-        "index": 10068,
-        "text": "Cokelat Buatan Tangan Mejiro Ardan",
-        "previous": "Mejiro Ardan's Handmade Chocolate"
-    },
-    {
         "i_index": 5597,
         "id": 24,
         "category": 24,
@@ -193518,5 +192062,637 @@
         "index": 510127,
         "text": "Tetap saja, dia cukup terampil untuk disebut \"Kemenangan Berasal\".",
         "previous": "Still, she's skilled enough to be called \"Victory Derived.\""
+    },
+    {
+        "i_index": 13136,
+        "id": 163,
+        "category": 163,
+        "index": 1001,
+        "text": "Namaku Minggu Spesial! Impian saya adalah menjadi Umamusume terbaik di seluruh Jepang! Aku harus bekerja keras untuk membuat ibuku bangga!",
+        "previous": "My name's Special Week! My dream is to be the top Umamusume in all of Japan! I gotta work hard to make my moms proud!"
+    },
+    {
+        "i_index": 13137,
+        "id": 163,
+        "category": 163,
+        "index": 1002,
+        "text": "Aku Diam Suzuka. Saya suka berlari, dan saya tidak akan menyerahkan keunggulan saya kepada siapa pun. Uh... itu saja.",
+        "previous": "I'm Silence Suzuka. I love to run, and I won't give up my lead to anyone. Uh... that's about it."
+    },
+    {
+        "i_index": 13138,
+        "id": 163,
+        "category": 163,
+        "index": 1003,
+        "text": "Hei hei! Itu Tokai Teio! Anda mungkin ingin mengawasi saya! Karena akan ada juara Triple Crown baru yang tak terkalahkan di kota ini!",
+        "previous": "Hey hey! It's Tokai Teio! You might wanna keep an eye on me! Because there's gonna be a new undefeated Triple Crown champion in town!"
+    },
+    {
+        "i_index": 13139,
+        "id": 163,
+        "category": 163,
+        "index": 1004,
+        "text": "Haiiii! Maruzensky di sini! Anda datang ke sini untuk menemui saya, bukan? Kehabisan tenagaku dari dunia ini! hehe! Cobalah untuk tidak jatuh cinta terlalu keras, oke? \u266a",
+        "previous": "Hiii! Maruzensky here! You came here to see me, right? My running's out of this world! Hehe! Try not to fall in love too hard, okay? \u266a"
+    },
+    {
+        "i_index": 13140,
+        "id": 163,
+        "category": 163,
+        "index": 1005,
+        "text": "Itu penghibur hitam legam favorit semua orang, Fuji Kiseki! Saya adalah keajaiban modern! Aku selalu tersenyum kemanapun aku pergi, kamu tahu? \u266a",
+        "previous": "It's everyone's favorite jet-black entertainer, Fuji Kiseki! I'm a modern miracle! I put smiles on faces wherever I go, you know? \u266a"
+    },
+    {
+        "i_index": 13141,
+        "id": 163,
+        "category": 163,
+        "index": 1006,
+        "text": "Saya Oguri Cap. Saya akan melakukan yang terbaik untuk menang demi orang-orang di kampung halaman. Terima kasih atas dukungan Anda.",
+        "previous": "I'm Oguri Cap. I'll do my best to win for the folks back home. Thanks for your support."
+    },
+    {
+        "i_index": 13142,
+        "id": 163,
+        "category": 163,
+        "index": 1007,
+        "text": "Tunduk! Kapal Emas telah tiba! Apakah saya harus melewati neraka yang mengamuk, wilayah yang paling tertindas, atau bahkan jauh di luar angkasa, saya selalu siap untuk berpetualang! \u2606",
+        "previous": "Bow down! Gold Ship has arrived! Whether I gotta go through a raging inferno, the most downtrodden turf, or even way out there in outer space, I'm always up for adventure! \u2606"
+    },
+    {
+        "i_index": 13143,
+        "id": 163,
+        "category": 163,
+        "index": 1008,
+        "text": "Hai! Vodka di sini! Dengarkan. Kebijakan saya adalah menjadi yang paling keren setiap saat! Aku tidak bertindak timpang. Mengerti?",
+        "previous": "Yo! Vodka here! Listen up. My policy is to be the coolest at all times! I don't act all lame. Got that?"
+    },
+    {
+        "i_index": 13144,
+        "id": 163,
+        "category": 163,
+        "index": 1009,
+        "text": "Halo! Daiwa Scarlet di sini! Aku akan berusaha sebaik mungkin untuk... Apa yang kubilang? \"Mencoba\" tidak akan berhasil. Saya <I>akan</I> menjadi nomor satu!",
+        "previous": "Hello! Daiwa Scarlet here! I'll try my best to... What am I saying? \"Trying\" won't cut it. I <I>will</I> be number one!"
+    },
+    {
+        "i_index": 13145,
+        "id": 163,
+        "category": 163,
+        "index": 1010,
+        "text": "Halo! Antar-Jemput Taiki di sini! Aku bertujuan untuk membuat beberapa wajah tersenyum dengan kerja keras!",
+        "previous": "Howdy! Taiki Shuttle here! I'm aimin' to put smiles on some faces with some hard runnin'!"
+    },
+    {
+        "i_index": 13146,
+        "id": 163,
+        "category": 163,
+        "index": 1011,
+        "text": "Nama saya Grass Wonder. Saya terlahir sebagai Umamusume, jadi saya akan menempuh jalan ini sejauh mungkin. Hehe. \u266a",
+        "previous": "My name is Grass Wonder. I was born an Umamusume, so I will take this path as far as I possibly can. Hee hee. \u266a"
+    },
+    {
+        "i_index": 13147,
+        "id": 163,
+        "category": 163,
+        "index": 1012,
+        "text": "Aku melihat banyak Umamusume di sini sepertinya mereka ingin melawanku! Baiklah, Hishiama akan memberikan semua yang bisa kamu tangani! Datanglah padaku! Satu lawan satu!",
+        "previous": "I see a buncha Umamusume here looking like they wanna take me on! Well, Hishiama will give you all you can handle! Come at me! One-on-one!"
+    },
+    {
+        "i_index": 13148,
+        "id": 163,
+        "category": 163,
+        "index": 1013,
+        "text": "Saya Mejiro McQueen. Saya pasti akan memenuhi ambisi keluarga saya untuk merebut mahkota Tenno Sho.",
+        "previous": "I am Mejiro McQueen. I shall surely fulfill my family's ambition to claim the Tenno Sho crown."
+    },
+    {
+        "i_index": 13149,
+        "id": 163,
+        "category": 163,
+        "index": 1014,
+        "text": "Seekor burung merah besar terbang ke lintasan! Itu satu-satunya, satu-satunya! El Condor Pasaaa, Umamusume terkuat di dunia!",
+        "previous": "A mighty crimson bird swoops onto the track! It's the one, the only! El Condor Pasaaa, the strongest Umamusume in the wooorld!"
+    },
+    {
+        "i_index": 13150,
+        "id": 163,
+        "category": 163,
+        "index": 1015,
+        "text": "Muahahaha! Manjakan mata Anda dengan Tuan Anda yang cantik dan berkuasa, T.M. Opera O! Legenda saya... dimulai sekarang!",
+        "previous": "Muahahaha! Feast your eyes upon your beautiful and powerful Overlord, T.M. Opera O! My legend... begins now!"
+    },
+    {
+        "i_index": 13151,
+        "id": 163,
+        "category": 163,
+        "index": 1016,
+        "text": "Saya Narita Brian. Saya di sini untuk mengelilingi lawan saya, bukan mengobrol. Itu saja.",
+        "previous": "I'm Narita Brian. I'm here to run circles around my opponents, not chit-chat. That's it."
+    },
+    {
+        "i_index": 13152,
+        "id": 163,
+        "category": 163,
+        "index": 1017,
+        "text": "Saya Simboli Rudolf. Saya mendapat kehormatan menjadi \"Kaisar\" yang berupaya membantu seluruh Umamusume mencapai potensi mereka yang sebenarnya. Bersama-sama, mari kita menempa jalan menuju kehormatan dan kejayaan!",
+        "previous": "I am Symboli Rudolf. I hold the honor of being the \"Emperor\" who seeks to help all Umamusume reach their true potential. Together, let us forge a path to honor and glory!"
+    },
+    {
+        "i_index": 13153,
+        "id": 163,
+        "category": 163,
+        "index": 1018,
+        "text": "Saya Alur Udara. Jika keyakinan Anda teguh, cita-cita Anda akan berkembang. Adalah peran saya sebagai Permaisuri untuk memimpin dengan memberi contoh.",
+        "previous": "I am Air Groove. If you are unwavering in your beliefs, your ideals will blossom. It is my role as Empress to lead by example."
+    },
+    {
+        "i_index": 13154,
+        "id": 163,
+        "category": 163,
+        "index": 1019,
+        "text": "Hai hai! Saya Digital! Saya di sini untuk mendukung semua Umamusume yang berkilauan ini! Setiap hari di sini adalah hari yang baik! Khusus untuk seorang Uma Otaku!",
+        "previous": "Hi hi! I'm Digitan! I'm here to support all these sparkling Umamusume! Every day here is a good day! Especially for an Uma Otaku!"
+    },
+    {
+        "i_index": 13155,
+        "id": 163,
+        "category": 163,
+        "index": 1020,
+        "text": "Halo. Aku Seiun Langit. Saya hanya menerima apa adanya. Hal-hal baik akan datang kepada mereka yang menunggu, tahu?",
+        "previous": "Hello. I'm Seiun Sky. I'm just taking things as they come. Good things come to those who wait, you know?"
+    },
+    {
+        "i_index": 13156,
+        "id": 163,
+        "category": 163,
+        "index": 1021,
+        "text": "Saya Tamamo Cross! Aku akan berlomba-lomba dan membuat namaku terkenal! Aku mungkin tidak terlihat menarik, tapi kamu tidak ingin macam-macam denganku!",
+        "previous": "I'm Tamamo Cross! I'm gonna race my butt off and make a name for myself! I may not look like much, but ya don't wanna mess with me!"
+    },
+    {
+        "i_index": 13157,
+        "id": 163,
+        "category": 163,
+        "index": 1022,
+        "text": "Senang bertemu dengan Anda. Saya Gerakan Baik. Saya berharap dapat membuat banyak kenangan di sini. Apakah Anda tahu tempat ramen lokal yang enak?",
+        "previous": "Pleased to meet you. I'm Fine Motion. I look forward to making lots of memories here. Would you happen to know of a good local ramen spot?"
+    },
+    {
+        "i_index": 13158,
+        "id": 163,
+        "category": 163,
+        "index": 1023,
+        "text": "Saya Biwa Hayahide. Tujuan saya adalah merancang persamaan kemenangan yang sempurna... Saya juga ingin menunjukkan bahwa ukuran kepala saya benar-benar rata-rata!",
+        "previous": "I'm Biwa Hayahide. My goal is to devise the perfect winning equation... I'd also like to point out that my head is of completely average size!"
+    },
+    {
+        "i_index": 13159,
+        "id": 163,
+        "category": 163,
+        "index": 1024,
+        "text": "Saya Maya, heh heh! \u2606 Saya suka semua hal yang menarik! Sensasi adrenalin yang terbaik! \u266a Senang bertemu denganmu!",
+        "previous": "I'm Maya, heh heh! \u2606 I love all things exciting! The thrill of adrenaline's the best! \u266a Nice to meet ya!"
+    },
+    {
+        "i_index": 13160,
+        "id": 163,
+        "category": 163,
+        "index": 1025,
+        "text": "Saya Kafe Manhattan. Aku punya... seorang teman yang ingin aku temui... Dia selalu berlari di depanku... Soalnya, di sana...",
+        "previous": "I'm Manhattan Cafe. I have... a friend I want to catch up with... She's always running ahead of me... You see, right there..."
+    },
+    {
+        "i_index": 13161,
+        "id": 163,
+        "category": 163,
+        "index": 1026,
+        "text": "Nama saya Mihono Bourbon. Tujuan saya adalah memenangkan Triple Crown. Silakan merujuk ke spesifikasi saya untuk informasi mengenai kemampuan saya.",
+        "previous": "My name is Mihono Bourbon. My objective is to win the Triple Crown. Please refer to my specs for information regarding my capabilities."
+    },
+    {
+        "i_index": 13162,
+        "id": 163,
+        "category": 163,
+        "index": 1027,
+        "text": "Sup! Mejiro Ryan di sini! Saya sangat menyukai kebugaran dan angkat beban. Ini semua tentang menjaga diri Anda tetap bengkak! Sampai jumpa di gym!",
+        "previous": "Sup! Mejiro Ryan here! I'm real big into fitness and lifting. It's all 'bout keeping yourself swole! See you at the gym!"
+    },
+    {
+        "i_index": 13163,
+        "id": 163,
+        "category": 163,
+        "index": 1028,
+        "text": "Bagus, bagus! \u266a Hishi Akebono di sini! \u2606 Entah itu memasak atau balapan, aku menaruh sedikit cinta dalam semua yang kulakukan!",
+        "previous": "Buono, buono! \u266a Hishi Akebono here! \u2606 Whether it's cooking or racing, I put a little bit of love into everything I do!"
+    },
+    {
+        "i_index": 13164,
+        "id": 163,
+        "category": 163,
+        "index": 1029,
+        "text": "Namaku, eh, Yukino Bijin! Impianku adalah ikut serta dalam Twinkly Series dan bersinar seperti gadis kota sungguhan! Wah... sepertinya aku berhasil mengatakan semuanya tanpa membuat kekacauan...",
+        "previous": "My name's, uh, Yukino Bijin! My dream's to run in the Twinkly Series and shine like a real city girl! Whew... I think I managed t' say it all without mess'n up..."
+    },
+    {
+        "i_index": 13165,
+        "id": 163,
+        "category": 163,
+        "index": 1030,
+        "text": "Aku Rice Shower... Sejujurnya, semua yang kulakukan hanyalah menyebabkan hal-hal buruk terjadi, dan... Aku benar-benar tidak baik... T-tapi aku berusaha menjadi lebih baik!",
+        "previous": "I'm Rice Shower... To be honest, all I ever do is cause bad things to happen, and... I'm really just no good... B-but I'm trying to be better!"
+    },
+    {
+        "i_index": 13166,
+        "id": 163,
+        "category": 163,
+        "index": 1031,
+        "text": "Halo-lo! Saya Ines Fujin! Saya di sini untuk bekerja keras dan berlomba lebih keras untuk membuat keluarga saya bangga!",
+        "previous": "Hello-lo! I'm Ines Fujin! I'm here to work hard and race harder to make my family proud!"
+    },
+    {
+        "i_index": 13167,
+        "id": 163,
+        "category": 163,
+        "index": 1032,
+        "text": "Saya Agnes Tachyon. Anda tidak akan tertarik untuk mengetahui seberapa cepat Umamusume dapat berlari, bukan? kebetulan aku sedang mencari kelinci percobaan...",
+        "previous": "I'm Agnes Tachyon. You wouldn't be interested in finding out just how fast an Umamusume can run, would you? I just so happen to be looking for a guinea pig..."
+    },
+    {
+        "i_index": 13168,
+        "id": 163,
+        "category": 163,
+        "index": 1033,
+        "text": "Nama saya Admire Vega... Sekarang, bolehkah saya pergi? Saya harus berlatih lebih banyak\u2014menang lebih banyak. Agar aku bisa menjadi bintang yang paling terang.",
+        "previous": "My name is Admire Vega... Now, may I please go? I have to train more\u2014win more. So I can be the brightest star."
+    },
+    {
+        "i_index": 13169,
+        "id": 163,
+        "category": 163,
+        "index": 1034,
+        "text": "Awas, kamu ngobrol dengan Inari One! Seperti yang saya yakin Anda bisa lihat, saya benar-benar seorang gadis Edo\u2014dan saya akan menjadi pembalap terhebat di dunia!",
+        "previous": "Watch it, you're talkin' to Inari One! As I'm sure ya can see, I'm an Edo gal through and through\u2014and I'm gonna be the biggest racer in the scene!"
+    },
+    {
+        "i_index": 13170,
+        "id": 163,
+        "category": 163,
+        "index": 1035,
+        "text": "Hei, hei! Impian saya selalu menjadi Juara Derby! OH, BENAR! NAMA SAYA! Saya Memenangkan Tiket! Awasi aku!",
+        "previous": "Hey, hey! My dream's always been to become a Derby Champion! OH, RIGHT! MY NAME! I'm Winning Ticket! Keep your eyes on me!"
+    },
+    {
+        "i_index": 13171,
+        "id": 163,
+        "category": 163,
+        "index": 1036,
+        "text": "Namanya Air Shakur. Data selalu menceritakan kisah nyata, dan simulasi saya tepat sasaran. Semoga semua orang siap untuk dihancurkan oleh logika saya.",
+        "previous": "The name's Air Shakur. The data always tells the true story, and I've got my simulations on point. Hope everyone's ready to get crushed by my logic."
+    },
+    {
+        "i_index": 13172,
+        "id": 163,
+        "category": 163,
+        "index": 1037,
+        "text": "Namaku Eishin Flash. Saya berlari untuk melestarikan tradisi Umamusume. Saya selalu berjalan sesuai jadwal.",
+        "previous": "My name is Eishin Flash. I run to preserve Umamusume tradition. I always run right on schedule."
+    },
+    {
+        "i_index": 13173,
+        "id": 163,
+        "category": 163,
+        "index": 1038,
+        "text": "Inilah Curren Chan, siap membuat dunia whooole menjadi tempat yang lebih manis! \u2606 Saat ini satu-satunya gadis yang perlu kamu awasi! Oke? \u266a",
+        "previous": "Here comes Curren Chan, ready to make the whooole world a cuter place! \u2606 Curren's the only girl you need to keep your eyes on! Okay? \u266a"
+    },
+    {
+        "i_index": 13174,
+        "id": 163,
+        "category": 163,
+        "index": 1039,
+        "text": "Ohoho! Saya Putri Kawakami. Itu benar! Seorang putri di antara para putri. Saya di sini untuk menghancurkan lawan saya hingga ke tanah. Tentu saja dengan anggun!",
+        "previous": "Ohoho! I am Kawakami Princess. That's right! A princess among princesses. I'm here to smash my opponents into the dirt. Gracefully, of course!"
+    },
+    {
+        "i_index": 13175,
+        "id": 163,
+        "category": 163,
+        "index": 1040,
+        "text": "Namanya Kota Emas. Sebaiknya kau tidak mengira aku hanyalah wajah cantik lainnya. Aku akan membiarkan lariku yang berbicara untukku.",
+        "previous": "The name's Gold City. You better not think I'm just another pretty face. I'll let my running do my talking for me."
+    },
+    {
+        "i_index": 13176,
+        "id": 163,
+        "category": 163,
+        "index": 1041,
+        "text": "Halo! Saya Sakura Bakushin O! Seperti yang kamu tahu, aku adalah perwakilan kelas model <I>DAN</I> Umamusume! BAKUSHIIIIN!",
+        "previous": "Hello! I'm Sakura Bakushin O! As you can tell, I'm the model class representative <I>AND</I> Umamusume! BAKUSHIIIN!"
+    },
+    {
+        "i_index": 13177,
+        "id": 163,
+        "category": 163,
+        "index": 1042,
+        "text": "Hohoho! Mencari Mutiara di sini! Anda tahu dunia adalah tiram Anda, bukan? Saya di sini untuk membuktikannya!",
+        "previous": "Hohoho! Seeking the Pearl here! You know the world's your oyster, don't you? I'm here to prove it!"
+    },
+    {
+        "i_index": 13178,
+        "id": 163,
+        "category": 163,
+        "index": 1043,
+        "text": "pemarah! Saya Shinko Windy! Apa aku membuatmu takut? Ayolah! Akui saja! Hai! Saya sedang berbicara dengan Anda! <I>Menggigit!</I>",
+        "previous": "Grawr! I'm Shinko Windy! Did I scare ya? Aw, come on! Admit it! Hey! I'm talking to you! <I>Chomp!</I>"
+    },
+    {
+        "i_index": 13179,
+        "id": 163,
+        "category": 163,
+        "index": 1044,
+        "text": "Sapu Tosho hanyalah sebuah alias! Identitas asliku adalah Gadis Ajaib Sweepy! Jangan paksa aku membacakan mantra padamu! Hai! <I>Baik!</I>",
+        "previous": "Sweep Tosho is just an alias! My true identity is Magical Girl Sweepy! Don't make me cast a spell on you! Hey! <I>Thunk!</I>"
+    },
+    {
+        "i_index": 13180,
+        "id": 163,
+        "category": 163,
+        "index": 1045,
+        "text": "hehe. \u266a Aku Super Creek. Saya akan bekerja keras untuk membuat semua orang di sekitar saya tersenyum. Serahkan saja padaku. \u266a",
+        "previous": "Hehe. \u266a I'm Super Creek. I'll work hard to make everyone around me smile. Just leave it to me. \u266a"
+    },
+    {
+        "i_index": 13181,
+        "id": 163,
+        "category": 163,
+        "index": 1046,
+        "text": "Namaku Smart Falcon, tapi kamu bisa memanggilku Falco! Impianku adalah menjadi seorang Umadol! Beri tahu saya jika Anda ingin tanda tangan saya! \u2606",
+        "previous": "My name's Smart Falcon, but you can call me Falco! My dream is to become an Umadol! Just let me know if you want my autograph! \u2606"
+    },
+    {
+        "i_index": 13182,
+        "id": 163,
+        "category": 163,
+        "index": 1047,
+        "text": "Nama saya Zenno Rob Roy. Agak memalukan, tapi saya suka novel fantasi, dan... yah, suatu hari nanti saya berharap bisa menulis legenda saya sendiri melalui balapan!",
+        "previous": "My name is Zenno Rob Roy. It's a little embarrassing, but I love fantasy novels, and... well, someday I hope to write my own legend through racing!"
+    },
+    {
+        "i_index": 13183,
+        "id": 163,
+        "category": 163,
+        "index": 1048,
+        "text": "Namanya Tosen Jordan. Impian saya adalah... Anda tahu, intro bukanlah kesukaan saya, jadi lewati saja. Senang bertemu meecha. \u2606 Pokoknya, periksa kukuku! Bagus, ya?",
+        "previous": "Name's Tosen Jordan. My dream is... you know, intros aren't really my thing, so let's skip it. Nice to meecha. \u2606 Anyway, check out my nails! Nice, huh?"
+    },
+    {
+        "i_index": 13184,
+        "id": 163,
+        "category": 163,
+        "index": 1050,
+        "text": "Namanya Narita Taishin. Aku melakukan ini untuk membuat semua orang yang meragukanku terlihat bodoh. Sekarang tinggalkan aku sendiri.",
+        "previous": "The name's Narita Taishin. I'm in this to make all the people who doubted me look stupid. Now leave me alone."
+    },
+    {
+        "i_index": 13185,
+        "id": 163,
+        "category": 163,
+        "index": 1051,
+        "text": "Halo. Namaku Bunga Nishino. Impianku adalah menjadi Umamusume yang dapat diandalkan oleh semua orang!",
+        "previous": "Hello. My name is Nishino Flower. My dream is to become the kind of Umamusume that everyone can depend on!"
+    },
+    {
+        "i_index": 13186,
+        "id": 163,
+        "category": 163,
+        "index": 1052,
+        "text": "Saya Haru Urara! Saya suka wortel! Oh, dan berlari juga! \u266a Aku selalu berusaha sekuat tenaga untuk menempati posisi pertama!",
+        "previous": "I'm Haru Urara! I like carrots! Oh, and running too! \u266a I'm always working my hardest to take first place!"
+    },
+    {
+        "i_index": 13187,
+        "id": 163,
+        "category": 163,
+        "index": 1053,
+        "text": "Hei, sup! Aku adalah Memori Bambu. Saya sama sulitnya menjalankan trek balap seperti halnya saya menjalankan komite disiplin, jadi berhati-hatilah!",
+        "previous": "Hey, sup! I'm Bamboo Memory. I'm just as tough running the race track as I am running the disciplinary committee, so watch out!"
+    },
+    {
+        "i_index": 13188,
+        "id": 163,
+        "category": 163,
+        "index": 1054,
+        "text": "Jangan pernah takut! Biko Pegasus, pembela keadilan, ada di sini! Aku meninggalkan musuhku di dalam debu dengan kecepatanku yang luar biasa! Saya adalah juara masyarakat sejati, membuat setiap orang tersenyum!",
+        "previous": "Never fear! Biko Pegasus, defender of justice, is here! I leave my enemies in the dust with my blazing speed! I'm the true people's champion, putting a smile on every person's face!"
+    },
+    {
+        "i_index": 13189,
+        "id": 163,
+        "category": 163,
+        "index": 1055,
+        "text": "Hei, hei! Ini hari Minggu yang Luar Biasa! Saya harap Anda mau bergabung dengan saya dalam misi saya untuk menjadikan dunia sedikit lebih menakjubkan ke mana pun saya pergi!",
+        "previous": "Hey, hey! It's Marvelous Sunday! I hope you'll join me on my mission to make the world just a little more marvelous wherever I go!"
+    },
+    {
+        "i_index": 13190,
+        "id": 163,
+        "category": 163,
+        "index": 1056,
+        "text": "Salam! Mereka memanggilku Matikanefukukitaru! Keyakinan saya yang tak tergoyahkan pada Shiraoki yang agung akan membawa berkah berlimpah dalam hidup kita. Tersedia untuk ramalan siang dan malam!",
+        "previous": "Greetings! They call me Matikanefukukitaru! My unwavering faith in the great Shiraoki will bring abundant blessings into our lives. Available for divination day and night!"
+    },
+    {
+        "i_index": 13191,
+        "id": 163,
+        "category": 163,
+        "index": 1057,
+        "text": "Ada angin yang hanya akan Anda temukan saat balapan. Ini adalah penarik yang lembut, tenang dan jujur. Ngomong-ngomong, namanya Tuan C.B.\u2014senang sekali.",
+        "previous": "There's a wind you'll only find while racing. It's a gentle tailwind, calm and true to itself. By the way, the name's Mr. C.B.\u2014it's a pleasure."
+    },
+    {
+        "i_index": 13192,
+        "id": 163,
+        "category": 163,
+        "index": 1058,
+        "text": "Hai! A-aku Meisho Doto. Aku, uh... Aku... Kuharap suatu hari nanti aku bisa memiliki kepercayaan diri untuk... Uh... Aku berusaha keras untuk... Oh, sial, aku terus tersandung...",
+        "previous": "Hi! I-I'm Meisho Doto. I, uh... I... I hope someday I can have the confidence to... Uh... I e-endeavor to... Oh, d-dang, I keep tripping up..."
+    },
+    {
+        "i_index": 13193,
+        "id": 163,
+        "category": 163,
+        "index": 1059,
+        "text": "Ya, halo. Saya Mejiro Dober. Aku... berencana untuk balapan dengan cara yang sesuai dengan nama Mejiro.",
+        "previous": "Yes, hello. I'm Mejiro Dober. I... plan to race in a way worthy of the Mejiro name."
+    },
+    {
+        "i_index": 13194,
+        "id": 163,
+        "category": 163,
+        "index": 1060,
+        "text": "Hai. Saya Alam yang Baik. Haha, sejujurnya, aku tidak bisa memenuhi ekspektasi orang terhadapku, tapi... itu keren juga, tahu? Saya lebih suka santai saja.",
+        "previous": "Hey. I'm Nice Nature. Haha, truth is, I don't really live up to people's expectations of me, but... that's cool too, you know? I prefer to take it easy."
+    },
+    {
+        "i_index": 13195,
+        "id": 163,
+        "category": 163,
+        "index": 1061,
+        "text": "Ohoho! Nama saya Raja Halo. Sebagai pesaing kelas satu, Anda tentu dapat mengharapkan hal-hal hebat dari saya. Yakinlah, King Halo akan segera menjadi terkenal.",
+        "previous": "Ohoho! My name is King Halo. As a first-rate competitor, you can naturally expect great things from me. Rest assured, King Halo will be a household name soon enough."
+    },
+    {
+        "i_index": 13196,
+        "id": 163,
+        "category": 163,
+        "index": 1062,
+        "text": "Hai, hai, Matikanetannhauser di sini. Aku harus berlatih sekuat tenaga agar aku tidak kalah... Hah? Tunggu, tidak ada pelatihan hari ini?!",
+        "previous": "Hi, hi, Matikanetannhauser here. I need to train as hard as I can to make sure I don't lose... Huh? Wait, there's no training today?!"
+    },
+    {
+        "i_index": 13197,
+        "id": 163,
+        "category": 163,
+        "index": 1063,
+        "text": "Bertemu dengan baik. Saya Ikuno Dictus. Izinkan saya untuk memenuhi semua kebutuhan manajemen Anda dengan kemauan keras saya.",
+        "previous": "Well met. I am Ikuno Dictus. Allow me to meet all of your management needs with my iron will."
+    },
+    {
+        "i_index": 13198,
+        "id": 163,
+        "category": 163,
+        "index": 1064,
+        "text": "Saya Mejiro Palmer! Bagaimana kabarmu? Saya selalu ada jika Anda membutuhkan saya, jadi jangan malu-malu! \u266a",
+        "previous": "I'm Mejiro Palmer! How ya doing? I'm always around if you need me, so don't be shy! \u266a"
+    },
+    {
+        "i_index": 13199,
+        "id": 163,
+        "category": 163,
+        "index": 1065,
+        "text": "Wah! Daitaku Helios di dalam rumah! Lariku akan membuatmu bersemangat dalam waktu singkat! Sekarang biarkan aku mendengarmu berteriak! \u2606",
+        "previous": "Wahey! Daitaku Helios in the hooouse! My running will have you vibing in no time! Now let me hear you shout! \u2606"
+    },
+    {
+        "i_index": 13200,
+        "id": 163,
+        "category": 163,
+        "index": 1066,
+        "text": "Twin Turbo di sini akan menempati posisi pertama! Ayo pergi! Peningkatan turbo!",
+        "previous": "Twin Turbo here about to take first place! Let's go! Turbo booost!"
+    },
+    {
+        "i_index": 13201,
+        "id": 163,
+        "category": 163,
+        "index": 1067,
+        "text": "Nama saya Satono Intan. Tidak ada yang namanya takdir. Saya berniat untuk berlomba menuju masa depan cerah yang saya ciptakan sendiri!",
+        "previous": "My name is Satono Diamond. There's no such thing as fate. I intend to race my way into a bright shining future of my own making!"
+    },
+    {
+        "i_index": 13202,
+        "id": 163,
+        "category": 163,
+        "index": 1068,
+        "text": "Saya Kitasan Hitam. Saya selalu melakukan yang terbaik untuk menciptakan suasana meriah yang dapat dinikmati semua orang saat saya balapan!",
+        "previous": "I'm Kitasan Black. I always do my best to create a festive atmosphere that everyone can enjoy when I race!"
+    },
+    {
+        "i_index": 13203,
+        "id": 163,
+        "category": 163,
+        "index": 1069,
+        "text": "A-Aku Sakura Chiyono O! Impianku adalah berdiri di panggung yang sama dengan pahlawanku! Dan aku akan mewujudkan impianku!",
+        "previous": "I-I'm Sakura Chiyono O! My dream is to stand on the same stage as my hero! And I will make my dreams blossom!"
+    },
+    {
+        "i_index": 13204,
+        "id": 163,
+        "category": 163,
+        "index": 1070,
+        "text": "Saya Sirius Simboli. Anda bisa diam dan menyimpan ceramah sok itu untuk orang lain. Sekarang bersantailah dan saksikan saya membuktikan bahwa saya berada di puncak dunia.",
+        "previous": "I'm Sirius Symboli. You can shut up and save the pretentious lectures for someone else. Now kick back and watch me prove that I'm on top of the world."
+    },
+    {
+        "i_index": 13205,
+        "id": 163,
+        "category": 163,
+        "index": 1071,
+        "text": "Suatu kesenangan. Saya Mejiro Ardan. Kakiku mungkin rapuh, tapi aku ingin bersinar terang di lintasan, meski hanya sesaat.",
+        "previous": "A pleasure. I'm Mejiro Ardan. My legs may be fragile, but I want to shine brightly on the track, even if only for a moment."
+    },
+    {
+        "i_index": 13206,
+        "id": 163,
+        "category": 163,
+        "index": 1072,
+        "text": "Saya Yaeno Muteki. Sebagai pelajar gaya Kongo Yaegaki, saya selalu mencari lawan terhormat untuk berlomba. Mari kita bertarung secara adil dan jujur!",
+        "previous": "I am Yaeno Muteki. As a student of the Kongo Yaegaki style, I am always in search of honorable opponents with whom to race. Let us fight fair and square!"
+    },
+    {
+        "i_index": 13207,
+        "id": 163,
+        "category": 163,
+        "index": 9001,
+        "text": "Halo. Saya Tazuna Hayakawa, sekretaris direktur Akademi Tracen. Saya di sini untuk memastikan bahwa setiap orang mendapatkan pengalaman terbaik di kampus. \u266a",
+        "previous": "Hello. I'm Tazuna Hayakawa, the Tracen Academy director's secretary. I'm here to ensure that everyone has the best on-campus experience possible. \u266a"
+    },
+    {
+        "i_index": 13208,
+        "id": 163,
+        "category": 163,
+        "index": 9004,
+        "text": "Halo. Saya Aoi Kiryuin, pelatih baru di Akademi Tracen. Saya masih terus belajar, tapi saya akan melakukan yang terbaik!",
+        "previous": "Hello. I'm Aoi Kiryuin, a new trainer here at Tracen Academy. I'm still learning as I go, but I'll do my absolute best!"
+    },
+    {
+        "i_index": 13209,
+        "id": 163,
+        "category": 163,
+        "index": 9005,
+        "text": "Sasami Anshinzawa, (magang dari) ahli akupunktur legendaris, siap melayani Anda! Dengan satu dorongan kecil, saya akan menyiapkan Anda untuk menghadapi dunia! Wah, benarkah? Jangan khawatir! \u2606",
+        "previous": "Sasami Anshinzawa, (apprentice of a) legendary acupuncturist, at your service! With one little poke, I'll have you ready to take on the world! Wow, right? No worries! \u2606"
+    },
+    {
+        "i_index": 13210,
+        "id": 163,
+        "category": 163,
+        "index": 9006,
+        "text": "Saya Riko Kashimoto. Adalah peran seorang pelatih untuk menjaga kesehatan Umamusume mereka. Oleh karena itu, wajar jika kita mempunyai tingkat kecemasan tertentu terhadap pekerjaan seseorang.",
+        "previous": "I'm Riko Kashimoto. It is the role of a trainer to look after the health of their Umamusume. Therefore, it's appropriate to have some level of anxiety regarding one's work."
+    },
+    {
+        "i_index": 36654,
+        "id": 163,
+        "category": 163,
+        "index": 1049,
+        "text": "Namanya Nakayama Festa. Saya membutuhkan lebih dari sekedar balapan suam-suam kuku untuk menggetarkan saya, mengerti? Pasti sesuatu yang lebih panas\u2014cukup panas untuk membakar!",
+        "previous": "The name's Nakayama Festa. I need a lot more than a lukewarm race to thrill me, get it? It's gotta be something hotter\u2014hot enough to burn!"
+    },
+    {
+        "i_index": 36655,
+        "id": 163,
+        "category": 163,
+        "index": 1073,
+        "text": "Tsurumaru Tsuyoshi di sini! Aku selalu bermimpi memenangkan Triple Crown, dan sekarang aku berusaha sekuat tenaga\u2014<i>uhuk, uhuk!</i> A-aku baik-baik saja, hanya tersedak udara. Sungguh, tidak pernah merasa lebih baik!",
+        "previous": "Tsurumaru Tsuyoshi here! I've always dreamed of winning the Triple Crown, and now I'm going all out to\u2014<i>cough, cough!</i> I-I'm all right, just choked on air. Really, never felt better!"
+    },
+    {
+        "i_index": 36656,
+        "id": 163,
+        "category": 163,
+        "index": 1074,
+        "text": "...Oh? Apakah kita melakukan perkenalan diri? Ehehe, baiklah, namaku Mejiro Bright. Saya akan melakukan yang terbaik untuk menjunjung nama Mejiro.",
+        "previous": "...Oh? Are we doing self-introductions? Ehehe, well, my name is Mejiro Bright. I'll do my best to uphold the Mejiro name."
+    },
+    {
+        "i_index": 36657,
+        "id": 163,
+        "category": 163,
+        "index": 1077,
+        "text": "Hai, saya Narita Top Road! Saya sangat berterima kasih kepada semua orang yang mendukung saya. Saya akan melakukan semua yang saya bisa untuk membuat mereka bangga!",
+        "previous": "Hi, I'm Narita Top Road! I'm so thankful to all the people rooting for me. I'll do everything I can to make them proud!"
     }
 ]

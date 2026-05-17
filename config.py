@@ -7,7 +7,7 @@ FIX_WORD_BEFORE_COMMIT = True
 
 TEXT_DATA_EXPORT = "t_td.json"
 TEXT_DATA_LAST_ITERATION_INDEX = 0
-TEXT_DATA_FIX_TOUCHED_EXCLUSIONS = False
+TEXT_DATA_FIX_TOUCHED_EXCLUSIONS = True
 TEXT_DATA_WORD_FIX = {
     "kapal emas": "Gold Ship",
     "putri kawakami": "Kawakami Princess",
@@ -19,6 +19,8 @@ TEXT_DATA_WORD_FIX = {
     "bunga nishino": "Nishino Flower",
     "Hari Minggu yang Luar Biasa": "Marvelous Sunday",
     "Alam yang Bagus": "Nice Nature",
+    "gerakan halus": "Fine Motion",
+    "kagumi vega": "Admire Vega",
 
     "piala jepang": "Japan Cup",
     "derby jepang": "Japan Derby",
@@ -63,6 +65,7 @@ TEXT_DATA_WORD_FIX = {
     "Taruhan Tokai": "Tokai Stakes",
     "Taruhan Hanshin Umamusume": "Hanshin Umamusume Stakes",
     "Taruhan Antares": "Antares Stakes",
+    "arena balap": "Racecourse",
 
     "piala persatuan": "Unity Cup",
     "<warna": "<color",
@@ -91,7 +94,7 @@ TEXT_DATA_EXCLUSIONS = [
     4, 5, # characters codename (eg: Hot Rod)
     6, 170, 75, 182, 77, 78, 95, # characters name (eg: Maruzensky)
     76, #character titles
-    163, #88, #character introduction (could be confusing if translated?)
+    #163, #88, #character introduction (could be confusing if translated?)
     7, 59, 152, 264, # NPC/Mob names
     173, 174, # NPC names (ura finale)
     28, 29, 31, 32, 33, 34, 35, 36, 38, 111, 206, # race names
@@ -115,7 +118,8 @@ TEXT_DATA_EXCLUSIONS = [
     161, # distances (eg: long 3000, sprint 1200)
     162, # divisions (eg: junior/senior)
     #203, # skill names
-    16 # song names
+    16, # song names
+    23 # items names
 ]
 
 CHARACTER_SYSTEM_TEXT_EXPORT = "t_cst.json"
