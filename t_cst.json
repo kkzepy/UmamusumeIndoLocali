@@ -107441,5 +107441,915 @@
         "voice_id": 410008,
         "text": "Hehe.hehehe.",
         "previous": "Heh... hehehe."
+    },
+    {
+        "index": 4662,
+        "character_id": 1022,
+        "voice_id": 90010,
+        "text": "Sekarang untuk kuis pagi Fine! \u266a Siap? Apa yang ada di sepatu kiri saya saat ini?",
+        "previous": "Now for Fine's morning quiz! \u266a Ready? What could be in my left shoe at this very moment?"
+    },
+    {
+        "index": 4663,
+        "character_id": 1022,
+        "voice_id": 90011,
+        "text": "Saya mendapat mimpi yang paling indah! Itu adalah hari pernikahanku, dan semua orang di Tracen mengambil bagian dalam upacara pemanasan cincin.",
+        "previous": "I had the most wonderful dream! It was my wedding day, and everyone at Tracen was taking part in the ring warming ceremony."
+    },
+    {
+        "index": 4664,
+        "character_id": 1022,
+        "voice_id": 90012,
+        "text": "Setengah hari sudah selesai! Waktu benar-benar berlalu dalam sekejap mata.",
+        "previous": "Half the day is already finished! Time really does pass in the blink of an eye."
+    },
+    {
+        "index": 4665,
+        "character_id": 1022,
+        "voice_id": 90013,
+        "text": "Mau bergabung dengan saya untuk makan sandwich jari sebelum resepsi? hehe. \u266a",
+        "previous": "Care to join me for some finger sandwiches before the reception? Hehe. \u266a"
+    },
+    {
+        "index": 4666,
+        "character_id": 1022,
+        "voice_id": 90014,
+        "text": "Pernikahan di Irlandia secara tradisional berlangsung cukup lama. Semua orang merayakan dan menari sampai matahari terbit. Hehe, sepertinya menyenangkan sekali!",
+        "previous": "Irish weddings are traditionally rather long. Everyone celebrates and dances until sunrise. Hehe, it sounds like so much fun!"
+    },
+    {
+        "index": 4667,
+        "character_id": 1022,
+        "voice_id": 90015,
+        "text": "Apakah sudah waktunya untuk dansa pertama? Hehe, mari kita jadikan momen luar biasa ini untuk berbagi. Sekarang, maukah kamu meraih tanganku, sayang?",
+        "previous": "Is it time for the first dance? Hehe, let's make this an incredible moment to share. Now, would you take my hand, darling?"
+    },
+    {
+        "index": 4668,
+        "character_id": 1022,
+        "voice_id": 90016,
+        "text": "Saya pergi piknik musim semi, dan itu sungguh menakjubkan! Bunga sakura berputar-putar seperti kelopak bunga pernikahan.",
+        "previous": "I went out on a spring picnic, and it was simply breathtaking! The cherry blossoms were twirling down like a wedding petal toss."
+    },
+    {
+        "index": 4669,
+        "character_id": 1022,
+        "voice_id": 90017,
+        "text": "Saya mencoba memainkan permainan potongan wafer di sebuah festival baru-baru ini, tetapi penjaga kios menilainya dengan sangat ketat! Saya terkejut! hehe. \u266a",
+        "previous": "I tried playing the wafer cutout game at a festival recently, but the stall attendant judged it so strictly! I was shocked! Hehe. \u266a"
+    },
+    {
+        "index": 4670,
+        "character_id": 1022,
+        "voice_id": 90018,
+        "text": "Shakur memberitahuku sesuatu yang menarik tentang capung saat aku melihatnya. Siap? Awasi jariku, oke?",
+        "previous": "Shakur told me something interesting about dragonflies while I was looking at them. Ready? Keep your eye on my finger, okay?"
+    },
+    {
+        "index": 4671,
+        "character_id": 1022,
+        "voice_id": 90019,
+        "text": "Saya rasa saya akan membawa penghangat tangan kembali ke Irlandia pada musim dingin sebagai oleh-oleh. Para pelayan pasti senang!",
+        "previous": "I think I'll bring some hand warmers back to Ireland in the winter as souvenirs. The maids are sure to be delighted!"
+    },
+    {
+        "index": 4672,
+        "character_id": 1022,
+        "voice_id": 91016,
+        "text": "Saya tahu pesta lajang adalah acara yang istimewa, tetapi ada sesuatu yang menurut saya menyedihkan... Apakah menurut Anda semua orang akan menghadiri pesta saya?",
+        "previous": "I know a bachelorette party is a special event, but something about it strikes me as mournful... Do you think everyone would attend mine?"
+    },
+    {
+        "index": 4673,
+        "character_id": 1022,
+        "voice_id": 91017,
+        "text": "Saat aku memberi tahu adikku bahwa Air Groove punya pakaian balap seperti ini, dia sangat gusar hingga dia hampir tidak bisa bicara!",
+        "previous": "When I told my sister that Air Groove has racewear just like this, she was so riled up that she could barely speak!"
+    },
+    {
+        "index": 4674,
+        "character_id": 1022,
+        "voice_id": 91018,
+        "text": "Saya sedang berpikir untuk mengadakan pesta teh roulette hot pot lagi dengan Dober. Anda juga akan datang, bukan?",
+        "previous": "I'm thinking of holding another hot pot roulette tea party with Dober. You'll come, too, won't you?"
+    },
+    {
+        "index": 4675,
+        "character_id": 1022,
+        "voice_id": 91019,
+        "text": "Suatu hari aku menyelinap ke taman hiburan milik ayah Bright. Apakah taman selalu dikunjungi pengunjung sebanyak itu?",
+        "previous": "I snuck off the other day to the amusement park Bright's father owns. Do parks always have that many visitors?"
+    },
+    {
+        "index": 4676,
+        "character_id": 1022,
+        "voice_id": 91020,
+        "text": "Pakaian balap ini membuat makan ramen jadi sulit... Ah! Mungkin jika saya menggunakan garpu!",
+        "previous": "This racewear makes it pretty hard to eat ramen... Ah! Maybe if I use a fork!"
+    },
+    {
+        "index": 4677,
+        "character_id": 1022,
+        "voice_id": 91028,
+        "text": "Pakaian balap ini benar-benar menonjolkan pancaran batin saya. Itu membuatku terlihat cantik... Saya merasa terhormat bisa mengenakan pakaian yang dirancang dengan cermat.",
+        "previous": "This racewear really brings out my inner radiance. It makes me look gorgeous... I'm honored to wear such a carefully tailored piece."
+    },
+    {
+        "index": 4678,
+        "character_id": 1022,
+        "voice_id": 91029,
+        "text": "Ms Beauty mengatakan bahwa pola dalam simpul Celtic mewakili keabadian. Dia benar-benar tahu segalanya.",
+        "previous": "Ms. Beauty says that the patterns within Celtic knots represent eternity. She really knows everything."
+    },
+    {
+        "index": 4679,
+        "character_id": 1022,
+        "voice_id": 91021,
+        "text": "Saya suka sup miso! Namun terkadang saya benar-benar memilih ispini berwarna kecoklatan dengan telur goreng renyah.",
+        "previous": "I love miso soup! But sometimes I could really go for some well-browned ispini with crispy fried eggs."
+    },
+    {
+        "index": 4680,
+        "character_id": 1022,
+        "voice_id": 91022,
+        "text": "Untuk makan siang hari ini, mungkin saya akan mendapatkan makanan spesial yang telah saya simpan. Benda ajaib yang berubah menjadi semangkuk ramen hanya dalam tiga menit!",
+        "previous": "For lunch today, maybe I'll have that special goody I've been saving. The magic item that turns into a bowl of ramen in just three minutes!"
+    },
+    {
+        "index": 4681,
+        "character_id": 1022,
+        "voice_id": 91023,
+        "text": "Ahhh, sungguh hari yang menyenangkan! Setelah semua aktivitas berat itu, saya yakin saya akan tidur nyenyak.",
+        "previous": "Ahhh, what a fun day it's been! After all that rigorous activity, I'm sure I'll sleep like a log."
+    },
+    {
+        "index": 4682,
+        "character_id": 1022,
+        "voice_id": 91024,
+        "text": "Ladang semanggi telah tumbuh subur! Itu mengingatkanku pada saat aku dan adikku bermain berpura-pura dan saling menobatkan satu sama lain.",
+        "previous": "The clover field has grown so lush! It reminds me of when my sister and I would play pretend and coronate each other."
+    },
+    {
+        "index": 4683,
+        "character_id": 1022,
+        "voice_id": 91025,
+        "text": "Saya mendengar tentang aspek musim panas yang luar biasa di Jepang. Menurutku itu namanya... \"ramen dingin\"!",
+        "previous": "I heard about an incredible aspect of summer in Japan. I think it's called... \"chilled ramen\"!"
+    },
+    {
+        "index": 4684,
+        "character_id": 1022,
+        "voice_id": 91026,
+        "text": "Musim gugur di Irlandia bisa menjadi dingin secara tiba-tiba. Saya pernah tidak punya pilihan selain meminjam syal kapten.",
+        "previous": "Autumn in Ireland can become cold quite suddenly. I once had no choice but to borrow the captain's scarf."
+    },
+    {
+        "index": 4685,
+        "character_id": 1022,
+        "voice_id": 91027,
+        "text": "Hei, apakah kamu memperhatikan sesuatu setelah salju terakhir turun? Seseorang meninggalkan manusia salju kecil di dekat jendela kantor Anda.",
+        "previous": "Hey, did you notice anything after it last snowed? Someone left a little snowman by your office window."
+    },
+    {
+        "index": 4686,
+        "character_id": 1022,
+        "voice_id": 92015,
+        "text": "Kata-kataku adalah yang tertinggi, dan aku memerintahkanmu untuk melatihku hingga sempurna... Ahaha! Apakah aku menangkapmu?",
+        "previous": "My word is supreme, and I command you to train me to perfection... Ahaha! Did I get you?"
+    },
+    {
+        "index": 4687,
+        "character_id": 1022,
+        "voice_id": 92016,
+        "text": "Akan menyenangkan membuka kemungkinan-kemungkinan baru bersama-sama, bukan begitu?",
+        "previous": "It will be fun opening up new possibilities together, don't you think?"
+    },
+    {
+        "index": 4688,
+        "character_id": 1022,
+        "voice_id": 92017,
+        "text": "Saya tidak ingin gaun ini lebih cemerlang dari saya, jadi saya siap berlatih sekeras biasanya. \u266a",
+        "previous": "I wouldn't want this dress to outshine me, so I'm ready to train as hard as always. \u266a"
+    },
+    {
+        "index": 4689,
+        "character_id": 1022,
+        "voice_id": 92018,
+        "text": "Anda tahu, saya sangat suka buku latihan Anda. Begitu banyak masa lalu kita, dan bahkan masa depan kita, tertulis di dalamnya.",
+        "previous": "You know, I really like your training notebook. So much of our past, and even our future, is written in it."
+    },
+    {
+        "index": 4690,
+        "character_id": 1022,
+        "voice_id": 92020,
+        "text": "Gaun ini mewakili keutamaan cita-cita saya, dan saya akan terus berusaha untuk menjadi layak mendapatkannya.",
+        "previous": "This dress represents the virtue of my ideals, and I'll continue striving to be worthy of it."
+    },
+    {
+        "index": 4691,
+        "character_id": 1022,
+        "voice_id": 92021,
+        "text": "Jalan ini pada akhirnya akan berakhir, namun sampai saat itu tiba, mari kita lalui bersama\u2014bergandengan tangan, selangkah demi selangkah!",
+        "previous": "This path will end eventually, but until then, let's walk it together\u2014arm in arm, step by step!"
+    },
+    {
+        "index": 4692,
+        "character_id": 1022,
+        "voice_id": 92022,
+        "text": "Hei, Pelatih... Kamu akan selalu ada untukku, kan?",
+        "previous": "Hey, Trainer... You'll always be there for me, right?"
+    },
+    {
+        "index": 4693,
+        "character_id": 1022,
+        "voice_id": 93004,
+        "text": "Selama aku hidup, aku tidak akan pernah melupakan kenangan yang telah kita buat.",
+        "previous": "For as long as I live, I'll never forget the memories we've made."
+    },
+    {
+        "index": 4694,
+        "character_id": 1022,
+        "voice_id": 93005,
+        "text": "Mari kita ikat pita ini. Bolehkah aku memegang tanganmu?",
+        "previous": "Let's tie this ribbon. May I have your hand?"
+    },
+    {
+        "index": 4695,
+        "character_id": 1022,
+        "voice_id": 95007,
+        "text": "Sampai hari kita berpisah, melalui suka dan duka, aku harap kamu akan berada di sisiku.",
+        "previous": "Till the day we part, through thick and thin, I hope you'll be at my side."
+    },
+    {
+        "index": 4696,
+        "character_id": 1022,
+        "voice_id": 95008,
+        "text": "Saya menerima berkat yang menggembirakan!",
+        "previous": "I received a joyful blessing!"
+    },
+    {
+        "index": 4697,
+        "character_id": 1022,
+        "voice_id": 95010,
+        "text": "Gerakan Bagus di sini! Mari kita buka pintu masa depan kita!",
+        "previous": "Fine Motion here! Let's open the door to our future!"
+    },
+    {
+        "index": 4698,
+        "character_id": 1022,
+        "voice_id": 70016,
+        "text": "Ya ampun, mungkinkah ini... \"tampilan pertama\" kita?",
+        "previous": "Oh my, could this be... our \"first look\"?"
+    },
+    {
+        "index": 4699,
+        "character_id": 1022,
+        "voice_id": 70017,
+        "text": "Anda tidak dapat melihatnya, tapi... Saya memiliki gerigi keberuntungan yang dijahit ke dalam rok saya!",
+        "previous": "You can't see it, but... I've got a lucky cleat stitched into my petticoat!"
+    },
+    {
+        "index": 4700,
+        "character_id": 1022,
+        "voice_id": 71016,
+        "text": "Ya ampun, mungkinkah ini... \"tampilan pertama\" kita?",
+        "previous": "Oh my, could this be... our \"first look\"?"
+    },
+    {
+        "index": 4701,
+        "character_id": 1022,
+        "voice_id": 71017,
+        "text": "Anda tidak dapat melihatnya, tapi... Saya memiliki gerigi keberuntungan yang dijahit ke dalam rok saya!",
+        "previous": "You can't see it, but... I've got a lucky cleat stitched into my petticoat!"
+    },
+    {
+        "index": 4702,
+        "character_id": 1022,
+        "voice_id": 95009,
+        "text": "Siap untuk sumpah kita? Untuk berlari secepat yang kita bisa\u2014bersama!",
+        "previous": "Ready for our vows? To run as fast as we can\u2014together!"
+    },
+    {
+        "index": 4703,
+        "character_id": 1022,
+        "voice_id": 40003,
+        "text": "Ini akan menjadi hari yang indah dan penuh kegembiraan!",
+        "previous": "This will be a beautiful day full of joy!"
+    },
+    {
+        "index": 4704,
+        "character_id": 1022,
+        "voice_id": 40004,
+        "text": "Hehe... Ini aku! Mari kita ciptakan kenangan seumur hidup di upacara ini!",
+        "previous": "Hehe... Here I am! Let's make lifelong memories at this ceremony!"
+    },
+    {
+        "index": 4705,
+        "character_id": 1022,
+        "voice_id": 30006,
+        "text": "Upacara akan segera dimulai!",
+        "previous": "The ceremony is about to begin!"
+    },
+    {
+        "index": 4706,
+        "character_id": 1022,
+        "voice_id": 30007,
+        "text": "hehe! Saya sangat tersanjung dengan hasil ini. Terima kasih atas dukungan Anda! \u266a",
+        "previous": "Hehe! I am most honored by this result. Thank you all for your cheers of encouragement! \u266a"
+    },
+    {
+        "index": 4707,
+        "character_id": 1022,
+        "voice_id": 400001,
+        "text": "Saya bertanya-tanya mengapa semua orang menginginkan pakaian balap Ms. Beauty sejauh ini?",
+        "previous": "I wonder why everyone desires Ms. Beauty's racewear to this extent?"
+    },
+    {
+        "index": 4708,
+        "character_id": 1022,
+        "voice_id": 400010,
+        "text": "Memecahkan setiap teka-teki merupakan pengalaman yang mengasyikkan. Saya telah membuat banyak kenangan yang tak terlupakan. \u266a",
+        "previous": "Solving each riddle was an exciting experience. I've made plenty of unforgettable memories. \u266a"
+    },
+    {
+        "index": 4710,
+        "character_id": 1022,
+        "voice_id": 90021,
+        "text": "Selamat Hari Valentine!",
+        "previous": "Happy Valentine's Daaay!"
+    },
+    {
+        "index": 6241,
+        "character_id": 1030,
+        "voice_id": 400002,
+        "text": "Aku akan menjadi seorang muse... dan membuat semua orang tersenyum!",
+        "previous": "I'll become a muse... and make everyone smile!"
+    },
+    {
+        "index": 6242,
+        "character_id": 1030,
+        "voice_id": 400003,
+        "text": "Teka-tekinya sulit, tapi... kita akan baik-baik saja jika kita semua bekerja sama, bukan?",
+        "previous": "The riddles are tough, but... we'll be okay if we all work together, right?"
+    },
+    {
+        "index": 6243,
+        "character_id": 1030,
+        "voice_id": 400011,
+        "text": "Aku benar-benar... menjadi inspirasi! Aku juga bisa membuat orang tersenyum!",
+        "previous": "I really... became a muse! I can make people smile too!"
+    },
+    {
+        "index": 6244,
+        "character_id": 1030,
+        "voice_id": 400012,
+        "text": "Ayo selesaikan misi acara ini bersama-sama\u2014ya!",
+        "previous": "Let's complete these event missions together\u2014yeah!"
+    },
+    {
+        "index": 6245,
+        "character_id": 1030,
+        "voice_id": 400013,
+        "text": "Apakah Anda mengklaim semua hadiahnya? Jika kamu mau... Aku bisa membantu memeriksa apakah ada yang tertinggal, oke?",
+        "previous": "Did you claim all the rewards? If you want... I can help check if you left anything behind, okay?"
+    },
+    {
+        "index": 7424,
+        "character_id": 1038,
+        "voice_id": 90010,
+        "text": "Kakak, apakah kamu lebih suka sarapan dengan nasi atau roti? Oh, aku tahu... mungkin kamu seorang pria Curren? Cuma bercanda! \u266a Dan untuk seleraku... kamu hanya perlu mencari tahu! \u2606",
+        "previous": "Big Bro, are you more of a rice guy or a bread guy for breakfast? Oh, I know...  maybe you're a Curren guy? Just kidding! \u266a And as for my tastes... you'll just have to find out! \u2606"
+    },
+    {
+        "index": 7425,
+        "character_id": 1038,
+        "voice_id": 90110,
+        "text": "Kak, kamu lebih suka cewek nasi atau cewek roti untuk sarapan? Oh, aku tahu... mungkin kamu seorang gadis Curren? Cuma bercanda! \u266a Dan untuk seleraku... kamu hanya perlu mencari tahu! \u2606",
+        "previous": "Big Sis, are you more of a rice gal or a bread gal for breakfast? Oh, I know...  maybe you're a Curren gal? Just kidding! \u266a And as for my tastes... you'll just have to find out! \u2606"
+    },
+    {
+        "index": 7426,
+        "character_id": 1038,
+        "voice_id": 90011,
+        "text": "Kakak, ada permintaan bagaimana aku harus mengantarmu berangkat kerja? Jangan malu sekarang\u2014saya mendengarkan! \u266a",
+        "previous": "Big Bro, got any requests for how I should see you off to work? Don't be shy now\u2014I'm all ears! \u266a"
+    },
+    {
+        "index": 7427,
+        "character_id": 1038,
+        "voice_id": 90111,
+        "text": "Kak, ada permintaan bagaimana aku harus mengantarmu berangkat kerja? Jangan malu sekarang\u2014saya mendengarkan! \u266a",
+        "previous": "Big Sis, got any requests for how I should see you off to work? Don't be shy now\u2014I'm all ears! \u266a"
+    },
+    {
+        "index": 7428,
+        "character_id": 1038,
+        "voice_id": 90012,
+        "text": "Aku ingin sekali makan siang bersama, Kakak. Aku bahkan akan memberimu makan, seperti, \"Buka lebar-lebar!\" \u266a",
+        "previous": "I'd looove to grab lunch together, Big Bro. I'll even feed you, like, \"Open wide!\" \u266a"
+    },
+    {
+        "index": 7429,
+        "character_id": 1038,
+        "voice_id": 90112,
+        "text": "Aku ingin sekali makan siang bersama, Kak. Aku bahkan akan memberimu makan, seperti, \"Buka lebar-lebar!\" \u266a",
+        "previous": "I'd looove to grab lunch together, Big Sis. I'll even feed you, like, \"Open wide!\" \u266a"
+    },
+    {
+        "index": 7430,
+        "character_id": 1038,
+        "voice_id": 90013,
+        "text": "Bagaimana perasaanmu saat melihatku berdiri di sampingmu dengan gaun ini? ...Kamu bisa memberitahuku lain kali kita berdua saja. \u266a",
+        "previous": "How does seeing me standing next to you in this dress make you feel? ...You can tell me the next time we're alone together. \u266a"
+    },
+    {
+        "index": 7431,
+        "character_id": 1038,
+        "voice_id": 90113,
+        "text": "Bagaimana perasaanmu saat melihatku berdiri di sampingmu dengan gaun ini? ...Kamu bisa memberitahuku lain kali kita berdua saja. \u266a",
+        "previous": "How does seeing me standing next to you in this dress make you feel? ...You can tell me the next time we're alone together. \u266a"
+    },
+    {
+        "index": 7432,
+        "character_id": 1038,
+        "voice_id": 90014,
+        "text": "Aku tidak sadar kalau diluar sudah sangat gelap. Kau tahu, aku akan merasa jauh lebih aman jika <i>seseorang</i> mengantarku kembali ke asramaku... oke? \u266a",
+        "previous": "I didn't realize it was already so dark outside. Y'know, I'd feel a lot safer if <i>someone</i> walked me back to my dorm... 'kay? \u266a"
+    },
+    {
+        "index": 7433,
+        "character_id": 1038,
+        "voice_id": 90015,
+        "text": "hehe! \u266a Ingin menghadiri pesta mewah bersama dan mencuri perhatian?",
+        "previous": "Hehe! \u266a Wanna roll up to a fancy party together and steal the spotlight?"
+    },
+    {
+        "index": 7434,
+        "character_id": 1038,
+        "voice_id": 90016,
+        "text": "Mereka bilang musim semi adalah musim pertemuan dan perpisahan, tapi aku tahu kita berdua akan selalu bersama! \u266a",
+        "previous": "They say spring's the season of meetings and farewells, but I just know that the two of us will aaalways be together! \u266a"
+    },
+    {
+        "index": 7435,
+        "character_id": 1038,
+        "voice_id": 90116,
+        "text": "Mereka bilang musim semi adalah musim pertemuan dan perpisahan, tapi aku tahu kita berdua akan selalu bersama! \u266a",
+        "previous": "They say spring's the season of meetings and farewells, but I just know that the two of us will aaalways be together! \u266a"
+    },
+    {
+        "index": 7436,
+        "character_id": 1038,
+        "voice_id": 90017,
+        "text": "Mungkin gaun hitam ini cukup lucu dan anggun untuk menarik perhatian hantu... Hehe. \u266a",
+        "previous": "Maybe this black dress is cute and chic enough to attract ghosts... Hehe. \u266a"
+    },
+    {
+        "index": 7437,
+        "character_id": 1038,
+        "voice_id": 90018,
+        "text": "Saya mendengar bahwa pernikahan musim gugur sedang berlangsung sekarang! ...Bukan untuk menyombongkan diri, tapi bukankah gaunku sangat cocok dengan warna musim gugur? Ehehe! \u266a",
+        "previous": "I hear that autumn weddings are in right now! ...Not to brag, but doesn't my dress fit in perfectly with the fall colors? Ehehe! \u266a"
+    },
+    {
+        "index": 7438,
+        "character_id": 1038,
+        "voice_id": 90019,
+        "text": "Kontras gaun hitamku dengan salju putih menghasilkan kombinasi yang sangat imut... Sepertinya, hawa dingin tidak mengurangi kelucuanku! \u266a",
+        "previous": "The contrast of my black dress against the white snow makes for a super cute combo... Like, the cold's got nothing on my cuteness! \u266a"
+    },
+    {
+        "index": 7439,
+        "character_id": 1038,
+        "voice_id": 91016,
+        "text": "Setelah kamu melihat betapa lucunya aku sebenarnya, kamu tidak bisa kembali lagi. \u266a Siap untuk menyelam, Kakak?",
+        "previous": "Once you've seen how cute I really am, you can't go back. \u266a Ready to take the dive, Big Bro?"
+    },
+    {
+        "index": 7440,
+        "character_id": 1038,
+        "voice_id": 91116,
+        "text": "Setelah kamu melihat betapa lucunya aku sebenarnya, kamu tidak bisa kembali lagi. \u266a Siap untuk menyelam, Kak?",
+        "previous": "Once you've seen how cute I really am, you can't go back. \u266a Ready to take the dive, Big Sis?"
+    },
+    {
+        "index": 7441,
+        "character_id": 1038,
+        "voice_id": 91017,
+        "text": "Lucu sekali betapa telitinya Ikuno saat memilih perlengkapan balap. Saya bisa belajar satu atau dua hal darinya. \u266a",
+        "previous": "It's really cute how meticulous Ikuno gets when picking out racing equipment. I could learn a thing or two from her. \u266a"
+    },
+    {
+        "index": 7442,
+        "character_id": 1038,
+        "voice_id": 91018,
+        "text": "Saya sangat mengerti mengapa Rice ingin membuat semua orang bahagia. Ini seperti bagaimana aku ingin memberikan semua kelucuan di dunia kepada penggemarku! \u266a",
+        "previous": "I totally get why Rice wants to make everyone happy. It's like how I want to give my fans all the cuteness in the world! \u266a"
+    },
+    {
+        "index": 7443,
+        "character_id": 1038,
+        "voice_id": 91019,
+        "text": "Tetap murni... adalah keseimbangan yang rumit. Itu sebabnya saya sangat menghormati Urara karena tetap setia pada dirinya sendiri! \u266a",
+        "previous": "Staying pure... is a delicate balance. That's why I really respect Urara for staying true to herself! \u266a"
+    },
+    {
+        "index": 7444,
+        "character_id": 1038,
+        "voice_id": 91020,
+        "text": "Baik dan saya mungkin memiliki lebih banyak kesamaan daripada yang saya kira... Seperti makanan penutup favorit kami! \u266a",
+        "previous": "Fine and I might have more in common than I thought... Like our favorite desserts! \u266a"
+    },
+    {
+        "index": 7445,
+        "character_id": 1038,
+        "voice_id": 91028,
+        "text": "Bahkan setelah aku besar nanti, maukah kamu menerimaku apa adanya, Kakak? ...Hehe! \u266a",
+        "previous": "Even after I grow up, will you still accept me for who I am, Big Bro? ...Hehe! \u266a"
+    },
+    {
+        "index": 7446,
+        "character_id": 1038,
+        "voice_id": 91128,
+        "text": "Bahkan setelah aku dewasa, apakah kamu masih menerimaku apa adanya, Kak? ...Hehe! \u266a",
+        "previous": "Even after I grow up, will you still accept me for who I am, Big Sis? ...Hehe! \u266a"
+    },
+    {
+        "index": 7447,
+        "character_id": 1038,
+        "voice_id": 91029,
+        "text": "Aku mengenakan hatiku di lengan bajuku. Kakak, kamu mengerti maksudku, kan?",
+        "previous": "I'm wearing my heart on my sleeve. Big Bro, you get what I mean, right?"
+    },
+    {
+        "index": 7448,
+        "character_id": 1038,
+        "voice_id": 91129,
+        "text": "Aku mengenakan hatiku di lengan bajuku. Kak, kamu mengerti maksudku, kan?",
+        "previous": "I'm wearing my heart on my sleeve. Big Sis, you get what I mean, right?"
+    },
+    {
+        "index": 7449,
+        "character_id": 1038,
+        "voice_id": 91021,
+        "text": "Aku tidak keberatan membantumu bangun setiap pagi... tapi membangunkanku juga kedengarannya tidak buruk! \u266a",
+        "previous": "I wouldn't mind helping you wake up every morning... but you waking me up doesn't sound bad either! \u266a"
+    },
+    {
+        "index": 7450,
+        "character_id": 1038,
+        "voice_id": 91121,
+        "text": "Aku tidak keberatan membantumu bangun setiap pagi... tapi membangunkanku juga kedengarannya tidak buruk! \u266a",
+        "previous": "I wouldn't mind helping you wake up every morning... but you waking me up doesn't sound bad either! \u266a"
+    },
+    {
+        "index": 7451,
+        "character_id": 1038,
+        "voice_id": 91022,
+        "text": "hehe! \u266a Aku tidak sabar untuk mengunjungi kafe bersama Fine dan teman-temanku lagi agar kita bisa berbagi makanan penutup. \u266a",
+        "previous": "Hehe! \u266a I can't wait to visit a cafe with Fine and the girls again so we can share desserts. \u266a"
+    },
+    {
+        "index": 7452,
+        "character_id": 1038,
+        "voice_id": 91023,
+        "text": "Gaunku menyatu sempurna di malam hari... Tapi kau akan tetap menemukanku, kan, Kakak?",
+        "previous": "My dress blends right into the night... But you'll still find me, won't you, Big Bro?"
+    },
+    {
+        "index": 7453,
+        "character_id": 1038,
+        "voice_id": 91123,
+        "text": "Gaunku menyatu hingga malam hari... Tapi kau akan tetap menemukanku, kan, Kak?",
+        "previous": "My dress blends right into the night... But you'll still find me, won't you, Big Sis?"
+    },
+    {
+        "index": 7454,
+        "character_id": 1038,
+        "voice_id": 91024,
+        "text": "Bunga memang lucu dan sebagainya... Tapi aku lebih suka piknik di mana kamu hanya melihatku! \u266a",
+        "previous": "Flowers are cute and all... But I'd rather have a picnic where you only look at me! \u266a"
+    },
+    {
+        "index": 7455,
+        "character_id": 1038,
+        "voice_id": 91124,
+        "text": "Bunga memang lucu dan sebagainya... Tapi aku lebih suka piknik di mana kamu hanya melihatku! \u266a",
+        "previous": "Flowers are cute and all... But I'd rather have a picnic where you only look at me! \u266a"
+    },
+    {
+        "index": 7456,
+        "character_id": 1038,
+        "voice_id": 91025,
+        "text": "Gaun ini tidak hanya lucu, tetapi juga keren untuk dikenakan dan cocok untuk berlari\u2014seperti yang Anda harapkan dari Ms. Beauty! \u266a",
+        "previous": "Not only is this dress cute, it's cool to wear and feels great for running\u2014just what you'd expect from Ms. Beauty! \u266a"
+    },
+    {
+        "index": 7457,
+        "character_id": 1038,
+        "voice_id": 91026,
+        "text": "Bukankah gaun ini sempurna untuk pernikahan di malam musim gugur yang panjang? \u266a",
+        "previous": "Wouldn't this dress be perfect for a wedding on a long autumn night? \u266a"
+    },
+    {
+        "index": 7458,
+        "character_id": 1038,
+        "voice_id": 91027,
+        "text": "Gaun ini penuh dengan kelucuanku, jadi aku tidak merasa kedinginan sama sekali! \u266a",
+        "previous": "This dress is filled with my toasty cuteness, so I don't feel cold at all! \u266a"
+    },
+    {
+        "index": 7459,
+        "character_id": 1038,
+        "voice_id": 92015,
+        "text": "Dalam keadaan sakit dan sehat... Jagalah aku dengan baik, oke? \u266a",
+        "previous": "In sickness and in health... Take real good care of me, 'kay? \u266a"
+    },
+    {
+        "index": 7460,
+        "character_id": 1038,
+        "voice_id": 92016,
+        "text": "Setelah seharian berlatih keras, saya rasa saya layak untuk dimanja <i>sedikit...</i> Bercanda! \u266a",
+        "previous": "After a hard day of training, I think I deserve to be spoiled a <i>little...</i> Just kidding! \u266a"
+    },
+    {
+        "index": 7461,
+        "character_id": 1038,
+        "voice_id": 92017,
+        "text": "Saya tidak pernah melupakan tujuan saya. Anda tahu apa yang mereka katakan\u2014kelucuan tidak bisa dibangun dalam sehari! \u266a",
+        "previous": "I've never lost sight of my goal. You know what they say\u2014cuteness can't be built in a day! \u266a"
+    },
+    {
+        "index": 7462,
+        "character_id": 1038,
+        "voice_id": 92018,
+        "text": "Aku tidak keberatan jika kamu jatuh cinta padaku saat aku berlatih, tapi jangan terlalu banyak melamun\u2014kalau tidak! \u266a",
+        "previous": "I don't mind if you fall for me while I'm training, but don't space out too much\u2014or else! \u266a"
+    },
+    {
+        "index": 7463,
+        "character_id": 1038,
+        "voice_id": 92020,
+        "text": "Itu salahmu, kelucuanku merajalela, tahu? Itu sebabnya... Aku membuatmu bertanggung jawab! \u266a",
+        "previous": "It's your fault my cuteness is running rampant, y'know? Which is why... I'm making you take responsibility! \u266a"
+    },
+    {
+        "index": 7464,
+        "character_id": 1038,
+        "voice_id": 92120,
+        "text": "Itu salahmu, kelucuanku merajalela, tahu? Itu sebabnya... Aku membuatmu bertanggung jawab! \u266a",
+        "previous": "It's your fault my cuteness is running rampant, y'know? Which is why... I'm making you take responsibility! \u266a"
+    },
+    {
+        "index": 7465,
+        "character_id": 1038,
+        "voice_id": 92021,
+        "text": "Aku percaya padamu sepenuhnya, Kakak. Jadi percayalah padaku... dan bantu jadikan aku lebih manis! \u266a",
+        "previous": "I trust you completely, Big Bro. So believe in me... and help make me even cuter! \u266a"
+    },
+    {
+        "index": 7466,
+        "character_id": 1038,
+        "voice_id": 92121,
+        "text": "Aku percaya padamu sepenuhnya, Kak. Jadi percayalah padaku... dan bantu jadikan aku lebih manis! \u266a",
+        "previous": "I trust you completely, Big Sis. So believe in me... and help make me even cuter! \u266a"
+    },
+    {
+        "index": 7467,
+        "character_id": 1038,
+        "voice_id": 92022,
+        "text": "Selama kamu bersamaku, masa depanku, kelucuanku\u2014semuanya akan sempurna! \u266a",
+        "previous": "As long as you're with me, my future, my cuteness\u2014everything's gonna be picture-perfect! \u266a"
+    },
+    {
+        "index": 7468,
+        "character_id": 1038,
+        "voice_id": 92122,
+        "text": "Selama kamu bersamaku, masa depanku, kelucuanku\u2014semuanya akan sempurna! \u266a",
+        "previous": "As long as you're with me, my future, my cuteness\u2014everything's gonna be picture-perfect! \u266a"
+    },
+    {
+        "index": 7469,
+        "character_id": 1038,
+        "voice_id": 93004,
+        "text": "Mari kita bersumpah untuk tetap bersama selamanya, oke? \u266a",
+        "previous": "Let's vow to stay together forever and ever, 'kay? \u266a"
+    },
+    {
+        "index": 7470,
+        "character_id": 1038,
+        "voice_id": 93005,
+        "text": "Awal yang baik untuk hidup baru kami! \u266a",
+        "previous": "A great start to our new life! \u266a"
+    },
+    {
+        "index": 7471,
+        "character_id": 1038,
+        "voice_id": 95007,
+        "text": "Satu langkah maju menuju kelucuan! \u266a",
+        "previous": "Another step forward on the road to cuteness! \u266a"
+    },
+    {
+        "index": 7472,
+        "character_id": 1038,
+        "voice_id": 95008,
+        "text": "Saya merasa sedikit lebih dewasa sekarang. \u266a",
+        "previous": "I feel a little more grown-up now. \u266a"
+    },
+    {
+        "index": 7473,
+        "character_id": 1038,
+        "voice_id": 95010,
+        "text": "Saya Curren Chan. Awasi aku terus, oke? \u266a",
+        "previous": "I'm Curren Chan. Keep your eyes on me, 'kay? \u266a"
+    },
+    {
+        "index": 7474,
+        "character_id": 1038,
+        "voice_id": 70016,
+        "text": "hehe! \u266a Apakah pakaian ini mengingatkanmu pada masa depan kita bersama?",
+        "previous": "Hehe! \u266a Does this outfit remind you of our future together?"
+    },
+    {
+        "index": 7475,
+        "character_id": 1038,
+        "voice_id": 70017,
+        "text": "Warna hitam gaun ini adalah kelucuanku yang dibawa ke level selanjutnya! \u266a",
+        "previous": "The black of this dress is my cuteness taken to the next level! \u266a"
+    },
+    {
+        "index": 7476,
+        "character_id": 1038,
+        "voice_id": 71016,
+        "text": "hehe! \u266a Apakah pakaian ini mengingatkanmu pada masa depan kita bersama?",
+        "previous": "Hehe! \u266a Does this outfit remind you of our future together?"
+    },
+    {
+        "index": 7477,
+        "character_id": 1038,
+        "voice_id": 71017,
+        "text": "Warna hitam gaun ini adalah kelucuanku yang dibawa ke level selanjutnya! \u266a",
+        "previous": "The black of this dress is my cuteness taken to the next level! \u266a"
+    },
+    {
+        "index": 7478,
+        "character_id": 1038,
+        "voice_id": 95009,
+        "text": "Bisakah Anda merasakannya?\\nAnda dan saya... Dimaksudkan. Ke. Menjadi. \u266a",
+        "previous": "Can you feel it?\\nYou and I are... Meant. To. Be. \u266a"
+    },
+    {
+        "index": 7479,
+        "character_id": 1038,
+        "voice_id": 40003,
+        "text": "Mari kita bersumpah... bersama-sama. \u266a",
+        "previous": "Let's make a vow... together. \u266a"
+    },
+    {
+        "index": 7480,
+        "character_id": 1038,
+        "voice_id": 40004,
+        "text": "Hei... Awasi aku ya? Mari kita bersumpah... untuk masa depan kita bersama. \u266a",
+        "previous": "Hey... Keep your eyes on me, 'kay? Let's make a vow... to our future together. \u266a"
+    },
+    {
+        "index": 7481,
+        "character_id": 1038,
+        "voice_id": 30006,
+        "text": "hehe! \u266a Aku bersumpah untuk menjadi manis, sekarang dan selamanya! \u266a",
+        "previous": "Hehe! \u266a I vow to be cute, now and forever! \u266a"
+    },
+    {
+        "index": 7482,
+        "character_id": 1038,
+        "voice_id": 30007,
+        "text": "Hura! \u266a Kamu melihatnya? Saya menang! \u266a",
+        "previous": "Yippee! \u266a You see that? I won! \u266a"
+    },
+    {
+        "index": 7499,
+        "character_id": 1038,
+        "voice_id": 400000,
+        "text": "Jika Curren yang imut mengenakan pakaian balap yang imut, bukankah menurutmu dia akan menjadi yang paling imut di alam semesta?",
+        "previous": "If the cute Curren puts on cute racewear, don't you think she'd be the cutest in the universe?"
+    },
+    {
+        "index": 7500,
+        "character_id": 1038,
+        "voice_id": 400006,
+        "text": "Lemparkan teka-teki apa pun ke arahku\u2014detektif hebat Curren akan menyelesaikan semuanya! \u266a",
+        "previous": "Throw any riddle my way\u2014the great detective Curren will solve them all! \u266a"
+    },
+    {
+        "index": 7501,
+        "character_id": 1038,
+        "voice_id": 400009,
+        "text": "Yay, kami mendapat lebih dari 100.000 Umazing! \u266a Semuanya, terus sebarkan berita tentang betapa aku yang paling lucu di alam semesta dalam balutan pakaian balapku!",
+        "previous": "Yay, we got over 100,000 Umazings! \u266a Everyone, keep spreading the word about how I'm the cutest in the universe in my racewear!"
+    },
+    {
+        "index": 7502,
+        "character_id": 1038,
+        "voice_id": 400014,
+        "text": "Acara ini sudah selesai! Hehe, bagaimana aku harus membuat diriku lebih manis lagi nanti? \u266a",
+        "previous": "This event's all wrapped up! Hehe, how should I make myself even cuter for next time? \u266a"
+    },
+    {
+        "index": 7504,
+        "character_id": 1038,
+        "voice_id": 90021,
+        "text": "Selamat Hari Valentine! \u266a",
+        "previous": "Happy Valentine's Day! \u266a"
+    },
+    {
+        "index": 9310,
+        "character_id": 1052,
+        "voice_id": 400005,
+        "text": "Saya ingin berlari bersama Rice dan semua orang di Beauty Dream Cup!",
+        "previous": "I want to run with Rice and everyone at the Beauty Dream Cup!"
+    },
+    {
+        "index": 9311,
+        "character_id": 1052,
+        "voice_id": 400008,
+        "text": "Jika saya memakai pakaian balap Ms. Beauty, saya tahu saya bisa menjadi yang pertama!",
+        "previous": "If I'm wearing Ms. Beauty's racewear, I just know I can get first!"
+    },
+    {
+        "index": 10628,
+        "character_id": 1063,
+        "voice_id": 400004,
+        "text": "Tergesa-gesa menghasilkan sampah. Kita harus tetap tenang dan menyelesaikan teka-teki ini secara metodis.",
+        "previous": "Haste makes waste. We should stay cool and solve these riddles methodically."
+    },
+    {
+        "index": 10629,
+        "character_id": 1063,
+        "voice_id": 400007,
+        "text": "Ayo berikan semua yang kita punya... Agar kita bisa pergi tanpa penyesalan!",
+        "previous": "Let's give this everything we have... So that we can leave with no regrets!"
+    },
+    {
+        "index": 12060,
+        "character_id": 1022,
+        "voice_id": 410000,
+        "text": "Baiklah?",
+        "previous": "Shall we?"
+    },
+    {
+        "index": 12061,
+        "character_id": 1022,
+        "voice_id": 410001,
+        "text": "Kami berhasil!",
+        "previous": "We did it!"
+    },
+    {
+        "index": 12062,
+        "character_id": 1022,
+        "voice_id": 410002,
+        "text": "Hehehe. \u266a",
+        "previous": "Hehehe. \u266a"
+    },
+    {
+        "index": 12063,
+        "character_id": 1022,
+        "voice_id": 410003,
+        "text": "Hehehe. \u266a",
+        "previous": "Hehehe. \u266a"
+    },
+    {
+        "index": 12064,
+        "character_id": 1022,
+        "voice_id": 410004,
+        "text": "hehe.",
+        "previous": "Hehe."
+    },
+    {
+        "index": 12065,
+        "character_id": 1022,
+        "voice_id": 410005,
+        "text": "hehe.",
+        "previous": "Hehe."
+    },
+    {
+        "index": 12066,
+        "character_id": 1022,
+        "voice_id": 410006,
+        "text": "Hmm...",
+        "previous": "Hmm..."
+    },
+    {
+        "index": 12067,
+        "character_id": 1022,
+        "voice_id": 410007,
+        "text": "Hmm...",
+        "previous": "Hmm..."
+    },
+    {
+        "index": 12068,
+        "character_id": 1022,
+        "voice_id": 410008,
+        "text": "Hmm...",
+        "previous": "Hmm..."
     }
 ]
