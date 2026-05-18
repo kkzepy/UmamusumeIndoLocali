@@ -19,6 +19,7 @@ TEXT_DATA_WORD_FIX = {
     "bunga nishino": "Nishino Flower",
     "Hari Minggu yang Luar Biasa": "Marvelous Sunday",
     "Alam yang Bagus": "Nice Nature",
+    "alam bagus": "Nice Nature",
     "gerakan halus": "Fine Motion",
     "kagumi vega": "Admire Vega",
 
@@ -124,5 +125,7 @@ TEXT_DATA_EXCLUSIONS = [
 
 CHARACTER_SYSTEM_TEXT_EXPORT = "t_cst.json"
 CHARACTER_SYSTEM_TEXT_LAST_ITERATION_INDEX = 0
-CHARACTER_SYSTEM_TEXT_ID_EXCLUSIONS = []
+CHARACTER_SYSTEM_TEXT_ID_EXCLUSIONS = [
+    # Exclude certain characters here, seek charaname.txt
+]
 CHARACTER_SYSTEM_TEXT_WORD_FIX = TEXT_DATA_WORD_FIX

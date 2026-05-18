@@ -33,6 +33,18 @@ def TranslateCST(start_from = 0):
         if voice_id == 11 or voice_id == 12: continue
 
         if id in config.CHARACTER_SYSTEM_TEXT_ID_EXCLUSIONS:
+            exists = any(
+                d["character_id"] == id# and d["index"] == index 
+                for d in translated_character_system_text
+            )
+            if exists:
+                LogWarning(f"id {id} was excluded but exists in result!")
+                #if fix_touched_exclusions:
+                matches = [d for d in translated_character_system_text if id == d.get("character_id", "")]
+
+                translated_character_system_text.remove(matches[0])
+                LogInfo(f"Removed {id}, {voice_id} from result.")
+
             LogInfo(f"Skipping character_id: {id}")
             continue
 

@@ -50,6 +50,17 @@ if __name__ == "__main__":
             print()
             LogInfo("Word fix complete.")
 
+        confirm = ""
+
+        while confirm != "y" or confirm != "n":
+            confirm = input("Are you sure want to commit changes? (y/n): ").lower()
+            if confirm == "y":
+                break
+            elif confirm == "n":
+                LogInfo("Cancelling...")
+                quit(0)
+        
+
         LogInfo(f"Committing to {config.MASTER_DB} will be started in 5 seconds...")
         time.sleep(5)
 
