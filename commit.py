@@ -71,8 +71,9 @@ if __name__ == "__main__":
             text = i["text"]
             previous= i["previous"]
 
-            cursor.execute("SELECT * FROM character_system_text WHERE character_id=? AND voice_id=?", (id, voice_id))
-            if cursor.fetchone()["text"] == text:
+            cursor.execute("SELECT text FROM character_system_text WHERE character_id=? AND voice_id=?", (id, voice_id))
+            row = cursor.fetchone()
+            if row!=None and row["text"] == text:
                 LogInfo(f"{id}, {voice_id}, Already existed")
                 continue
 
@@ -104,8 +105,9 @@ if __name__ == "__main__":
             text:str = i["text"]
             previous = i["previous"]
 
-            cursor.execute("SELECT * FROM text_data WHERE id=? AND `index`=?", (id, index))
-            if cursor.fetchone()["text"] == text:
+            cursor.execute("SELECT text FROM text_data WHERE id=? AND `index`=?", (id, index))
+            row = cursor.fetchone()
+            if row!=None and row["text"] == text:
                 LogInfo(f"{id}, {index}, Already existed")
                 continue
 
